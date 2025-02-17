@@ -29,7 +29,7 @@ latest_posts:
 
 This website is under development
 
-# Welcome to My World of Innovation
+<!-- # Welcome to My World of Innovation -->
 
 Where a well-fueled cup of coffee, a passion for cricket, and an insatiable curiosity come together to spark limitless creativity. I'm **Shameek Vats**, a Materials Scientist and R&D Engineer with an international background, blending digital ingenuity with hands-on craftsmanship.
 
