@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Bat, Brew, Build - Mixing Cricket, Coffee, and Curiosity for Limitless Prototypes.
 
 profile:
   align: right
@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This website is under development
+**This website is under development**
 
 <!-- # Welcome to My World of Innovation -->
 
-Where a well-fueled cup of coffee, a passion for cricket, and an insatiable curiosity come together to spark limitless creativity. I'm **Shameek Vats**, a Materials Scientist and R&D Engineer with an international background, blending digital ingenuity with hands-on craftsmanship.
+Where a well-fueled cup of coffee, a passion for cricket, and an insatiable curiosity come together to spark limitless creativity. I'm a Materials Scientist and R&D Engineer with an international background, blending digital ingenuity with hands-on craftsmanship.
 
 With a PhD in electrospinning and deep expertise in advanced additive manufacturing, microelectronics, robotics, and programming, I thrive on transforming challenges into opportunities. Today, I channel that energy into:
 
