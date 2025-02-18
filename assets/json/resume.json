@@ -19,21 +19,21 @@
   "work": [
     {
       "name": "Luxembourg Institute of Science and Technology (LIST)",
-      "position": "((Junior) R&T Associate)",
+      "position": "(Junior) R&T Associate",
       "url": "https://www.list.lu/",
       "startDate": "2022-10-01",
       "endDate": "2024-09-30",
-      "summary": "Electrospun cellulose-based fibers and regenerated cellulose for sustainable material applications as part of the MEranet BioCel3D Project, utilizing waste-derived cellulose to develop fiber-reinforced composites and advance circular economy solutions. Collaborated with international partners (KUL, Belgium & Univ. Maribor, Slovenia) on methodology alignment, science outreach, and laboratory infrastructure setup while also contributing to website development and grant proposal writing.",
-      "highlights": ["Electrospinning, 3D Printing, Circular Economy, Website Design, Grant Writing, Project Management"]
+      "summary": "Electrospun cellulose-based fibers and regenerated cellulose for sustainable material applications. Collaborated with international partners and laboratory infrastructure setup along with website development and grant proposal writing.",
+      "highlights": ["Electrospinning", "3D Printing", "Circular Economy", "Website Design", "Grant Writing", "Project Management"]
     },
     {
       "name": "University of Luxembourg",
-      "position": "(R&D Specialist)",
+      "position": "R&D Specialist",
       "url": "https://www.uni.lu/en/",
       "startDate": "2022-10-01",
       "endDate": "2024-09-30",
       "summary": "Supervised student on fiber production using 3D-printed parts and optimized the fiber spinning setup for efficiency.",
-      "highlights": ["Electrospinning, 3D Printing, Product Development"]
+      "highlights": ["Electrospinning", "3D Printing", "Product Development"]
     }
   ],
   "volunteer": [
@@ -58,7 +58,7 @@
       "startDate": "2017-07-01",
       "endDate": "2021-10-08",
       "score": "",
-      "courses": ["Liquid Crystals, Rheology, Optical Microscopy, Scanning Electron Microscopy, Website Design, Using Python for Research"]
+      "courses": ["Liquid Crystals", "Rheology", "Optical Microscopy", "Scanning Electron Microscopy(SEM)", "Website Design", "Using Python for Research"]
     },
     {
       "institution": "Tampere University of Technology",
@@ -69,7 +69,7 @@
       "startDate": "2013-08-15",
       "endDate": "2015-08-30",
       "score": "",
-      "courses": ["Biodegradable Polymers, Materials Processing, Thermal Analysis of Materials, High Technolgy Fibers,IR Spectroscopy, Product Development & Innovations"]
+      "courses": ["Biodegradable Polymers", "Materials Processing", "Thermal Analysis of Materials", "High Technolgy Fibers","FT-IR", "Product Development & Innovations"]
     },
     {
       "institution": "University of Delhi",
@@ -80,7 +80,7 @@
       "startDate": "2009-07-15",
       "endDate": "2012-08-01",
       "score": "",
-      "courses": ["Introduction to Fiber Science & Technolgy, Rheology & Processing of Polymers, Polymer Blends & Composites, Principles & Functions of Management"]
+      "courses": ["Introduction to Fiber Science & Technolgy", "Rheology & Processing of Polymers", "Polymer Blends & Composites", "Principles & Functions of Management"]
     }
   ],
   "awards": [
