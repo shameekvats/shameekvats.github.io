@@ -6,7 +6,7 @@
     "email": "shameekvats@proton.me",
     
     "url": "shameekvats@github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Materials Scientist & R&D Engineer with international experience specializing in nanofibers, project management, FDM 3D printing, and website design.",
     "location": {
     
     },
@@ -18,11 +18,20 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Luxembourg Institute of Science and Technology (LIST)",
+      "position": "((Junior) R&T Associate)",
+      "url": "https://www.list.lu/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-09-30",
+      "summary": "Electrospun cellulose-based fibers and regenerated cellulose for sustainable material applications as part of the MEranet BioCel3D Project, utilizing waste-derived cellulose to develop fiber-reinforced composites and advance circular economy solutions. Collaborated with international partners (KUL, Belgium & Univ. Maribor, Slovenia) on methodology alignment, science outreach, and laboratory infrastructure setup while also contributing to website development and grant proposal writing.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "University of Luxembourg",
+      "position": "(R&D Specialist)",
+      "url": "https://www.list.lu/",
+      "startDate": "2022-10-01",
+      "endDate": "2024-09-30",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -49,7 +58,7 @@
       "startDate": "2017-07-01",
       "endDate": "2021-10-08",
       "score": "",
-      "courses": ["Thesis: Spinning Functional Fibres: An Interplay of Rheology, Miscibility & Crosslinking"]
+      "courses": ["Liquid Crystals, Rheology, Optical Microscopy, Scanning Electron Microscopy, Website Design, Using Python for Research"]
     },
     {
       "institution": "Tampere University of Technology",
@@ -59,8 +68,8 @@
       "studyType": "Masters",
       "startDate": "2013-08-15",
       "endDate": "2015-08-30",
-      "score": "Thesis: Upcycling of waste textiles fibres",
-      "courses": ["Thesis: Upcycling of waste textiles fibres"]
+      "score": "",
+      "courses": ["Biodegradable Polymers, Materials Processing, Thermal Analysis of Materials, High Technolgy Fibers,IR Spectroscopy, Product Development & Innovations"]
     },
     {
       "institution": "University of Delhi",
@@ -71,7 +80,7 @@
       "startDate": "2009-07-15",
       "endDate": "2012-08-01",
       "score": "",
-      "courses": ["Thesis: Analysis of melt rheological characteristics of polyolefins using additives"]
+      "courses": ["Introduction to Fiber Science & Technolgy, Rheology & Processing of Polymers, Polymer Blends & Composites, Principles & Functions of Management"]
     }
   ],
   "awards": [
