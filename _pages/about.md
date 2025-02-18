@@ -32,7 +32,7 @@ latest_posts:
 I am a Materials Scientist and R&D Engineer dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My academic and professional experiences across multiple countries have equipped me with a global perspective on tackling complex engineering challenges.
 
 My work focuses on developing innovative solutions that integrate:  
-- **Fiber Spinning** – Drawing on a Ph.D. in electrospinning to pioneer new material formulations and manufacturing methods.  
+- **Fiber Spinning** – Production of nanofibers to pioneer new material formulations and manufacturing methods.  
 - **Additive Manufacturing & 3D Modeling** – Utilizing [Onshape](https://www.onshape.com/en/) and 3D printing techniques to design and prototype functional components.  
 - **Embedded & IoT Systems** – Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
 - **Data-Driven Automation** – Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
