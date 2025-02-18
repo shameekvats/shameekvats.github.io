@@ -33,11 +33,11 @@ I am a Materials Scientist and R&D Engineer dedicated to bridging the digital an
 
 My work focuses on developing innovative solutions that integrate:  
 - **Fiber Spinning** – Drawing on a Ph.D. in electrospinning to pioneer new material formulations and manufacturing methods.  
-- **Additive Manufacturing & 3D Modeling** – Utilizing Onshape and 3D printing techniques to design and prototype functional components.  
-- **Embedded & IoT Systems** – Experimenting with platforms like Raspberry Pi and Microbit to create interactive, real-world applications.  
+- **Additive Manufacturing & 3D Modeling** – Utilizing [Onshape](https://www.onshape.com/en/) and 3D printing techniques to design and prototype functional components.  
+- **Embedded & IoT Systems** – Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
 - **Data-Driven Automation** – Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
 
-I believe that curiosity, collaboration, and creativity are key to transforming challenges into opportunities. In my spare time, I enjoy playing [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and reading, pursuits that keep me energized and inspire new ideas.  
+I believe that curiosity, collaboration, and creativity are key to transforming challenges into opportunities. In my spare time, I enjoy playing [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and [reading](https://www.goodreads.com/user/show/50895425-shameek-vats), pursuits that keep me energized and inspire new ideas.  
 
 If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please feel free to reach out.
 
