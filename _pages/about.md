@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: * Materials Scientist & R&D Engineer based in Luxembourg * #Bat, Brew, Build - Mixing Cricket, Coffee, and Curiosity for Limitless Prototypes.
+subtitle: Materials Scientist & R&D Engineer based in Luxembourg #Bat, Brew, Build - Mixing Cricket, Coffee, and Curiosity for Limitless Prototypes.
 
 profile:
   align: right
