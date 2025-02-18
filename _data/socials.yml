@@ -45,7 +45,7 @@ scholar_userid: xbwnYzYAAAAJ&hl # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://d.gr-assets.com/misc/1454549143-1454549143_goodreads_misc.png # can be png, svg, jpg
-  title: Goodreads
-  url: https://www.goodreads.com/user/show/50895425-shameek-vats
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: https://d.gr-assets.com/misc/1454549143-1454549143_goodreads_misc.png # can be png, svg, jpg
+#   title: Goodreads
+#   url: https://www.goodreads.com/user/show/50895425-shameek-vats
