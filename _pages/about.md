@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bat, Brew, Build - Mixing Cricket, Coffee, and Curiosity for Limitless Prototypes.
+subtitle: Materials Scientist & R&D Engineer #Bat, Brew, Build - Mixing Cricket, Coffee, and Curiosity for Limitless Prototypes.
 
 profile:
   align: right
@@ -27,19 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**This website is under development**
+**This website is under development** 
 
-<!-- # Welcome to My World of Innovation -->
+I am a Materials Scientist and R&D Engineer dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My academic and professional experiences across multiple countries have equipped me with a global perspective on tackling complex engineering challenges.
 
-Where a well-fueled cup of coffee, a passion for cricket, and an insatiable curiosity come together to spark limitless creativity. I'm a Materials Scientist and R&D Engineer with an international background, blending digital ingenuity with hands-on craftsmanship.
+My work focuses on developing innovative solutions that integrate:  
+- **Fiber Spinning** – Drawing on a Ph.D. in electrospinning to pioneer new material formulations and manufacturing methods.  
+- **Additive Manufacturing & 3D Modeling** – Utilizing Onshape and 3D printing techniques to design and prototype functional components.  
+- **Embedded & IoT Systems** – Experimenting with platforms like Raspberry Pi and Microbit to create interactive, real-world applications.  
+- **Data-Driven Automation** – Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
 
-With a PhD in electrospinning and deep expertise in advanced additive manufacturing, microelectronics, robotics, and programming, I thrive on transforming challenges into opportunities. Today, I channel that energy into:
+I believe that curiosity, collaboration, and creativity are key to transforming challenges into opportunities. In my spare time, I enjoy playing [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and reading, pursuits that keep me energized and inspire new ideas.  
 
-- **3D Printing & Modeling:** Crafting detailed designs in Onshape and turning them into tangible creations.
-- **Modern Web Development:** Building responsive, intuitive websites that marry form and function.
-- **Embedded & IoT Projects:** Experimenting with Raspberry Pi and Microbit to bring interactive ideas to life.
-- **Data-Driven Innovation:** Using Python for automation and insights that enhance every project.
+If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please feel free to reach out.
 
-Whether I'm engineering a new solution in the lab (and playing) on the cricket field, I believe that curiosity, creativity, and a bit of humor are the perfect ingredients for groundbreaking prototypes.
-
-Let's connect and collaborate on turning visionary ideas into reality!
+--
