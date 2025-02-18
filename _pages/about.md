@@ -41,4 +41,4 @@ I believe that curiosity, collaboration, and creativity are key to transforming 
 
 If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please feel free to reach out.
 
---
+---
