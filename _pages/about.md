@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Materials Scientist & R&D Engineer based in Luxembourg
+subtitle: Materials Scientist & R&D Engineer based in Luxembourg #Materials, R&D Engineer, Project Management, Luxembourg. 
 
 profile:
   align: right
@@ -33,7 +33,7 @@ I am a Materials Scientist and R&D Engineer dedicated to bridging the digital an
 
 My work focuses on developing innovative solutions that integrate:  
 - **Fiber Spinning** – Production of nanofibers to pioneer new material formulations and manufacturing methods.  
-- **Additive Manufacturing & 3D Modeling** – Utilizing [Onshape](https://www.onshape.com/en/) and 3D printing techniques to design and prototype functional components.  
+- **Additive Manufacturing & 3D Modeling** – Utilizing [Onshape](https://www.onshape.com/en/) to design parametric models and 3D printing techniques to design and prototype functional components.  
 - **Embedded & IoT Systems** – Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
 - **Data-Driven Automation** – Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
 
