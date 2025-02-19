@@ -81,11 +81,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-website-design",
+          title: 'website design',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Web-Designing/";
+              window.location.href = "/projects/website-design/";
             },},{
         id: 'social-email',
         title: 'email',
