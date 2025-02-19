@@ -121,6 +121,16 @@
         "Raspberry Pi",
         "Microbit"
       ]
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "icon": "fa-solid fa-tasks",
+      "keywords": [
+        "Project Management",
+        "Product Development",
+        "Grant Writing"
+      ]
     }
   ],
   "languages": [
