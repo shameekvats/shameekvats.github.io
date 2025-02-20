@@ -29,7 +29,7 @@ latest_posts:
 
 **This website is under development** 
 
-I am a Materials Scientist and R&D Engineer dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My skills and experiences across multiple countries have offered me with a global perspective on tackling complex engineering challenges.
+I am dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My skills and experiences across multiple countries have offered me with a global perspective on tackling complex challenges.
 
 My work focuses on developing innovative solutions that integrate:  
 - **Fiber Spinning** : Production of nanofibers to pioneer new material formulations and manufacturing methods.
