@@ -83,7 +83,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-website-design",
           title: 'website design',
-          description: "with background image",
+          description: "with dynamic layouts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/website-design/";
             },},{
