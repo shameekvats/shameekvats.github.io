@@ -4,7 +4,7 @@ title: website design
 description: with dynamic layouts
 img: assets/img/Web_development.jpg
 importance: 1
-category: work
+category: portfolio #work
 related_publications: false #true
 ---
 
