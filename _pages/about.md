@@ -29,16 +29,16 @@ latest_posts:
 
 **This website is under development** 
 
-I am a Materials Scientist and R&D Engineer dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My skills and experiences across multiple countries have equipped me with a global perspective on tackling complex engineering challenges.
+I am a Materials Scientist and R&D Engineer dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My skills and experiences across multiple countries have offered me with a global perspective on tackling complex engineering challenges.
 
 My work focuses on developing innovative solutions that integrate:  
-- **Fiber Spinning** – Production of nanofibers to pioneer new material formulations and manufacturing methods.  
-- **Additive Manufacturing & 3D Modeling** – Utilizing [Onshape](https://www.onshape.com/en/) to design parametric models and 3D printing techniques to design and prototype functional components.  
-- **Embedded & IoT Systems** – Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
-- **Data-Driven Automation** – Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
+- **Fiber Spinning** : Production of nanofibers to pioneer new material formulations and manufacturing methods.  
+- **Additive Manufacturing & 3D Modeling** : Utilizing [Onshape](https://www.onshape.com/en/) to design parametric models and 3D printing techniques to design and prototype functional components.  
+- **Embedded & IoT Systems** : Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
+- **Data-Driven Automation** : Leveraging Python for automation, data analysis, and the optimization of research and development processes.  
 
 I believe that curiosity, collaboration, and creativity are key to transforming challenges into opportunities. In my spare time, I enjoy playing [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and [reading](https://www.goodreads.com/user/show/50895425-shameek-vats), pursuits that keep me energized and inspire new ideas.  
 
-If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please feel free to reach out.
+If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please reach out.
 
 ---
