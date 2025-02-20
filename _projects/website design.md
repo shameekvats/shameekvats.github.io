@@ -9,7 +9,6 @@ related_publications: false #true
 ---
 
 
-
 I enjoy creating clean, functional websites that effectively communicate information while offering a smooth user experience. Below are some examples of websites I have designed and developed:
 
 ### [Warriors Cricket Club](https://warriorscricket.eu/)
