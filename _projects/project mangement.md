@@ -25,7 +25,7 @@ The event was organized with a cross-functional team of 50 dedicated professiona
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 
@@ -35,7 +35,7 @@ The event was organized with a cross-functional team of 50 dedicated professiona
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 
@@ -56,7 +56,7 @@ Set against the backdrop of a castle with a history dating back to the Roman era
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 
@@ -66,7 +66,7 @@ Set against the backdrop of a castle with a history dating back to the Roman era
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 ---
@@ -81,7 +81,7 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
 
@@ -91,7 +91,7 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+   
 </div>
 
 ---
