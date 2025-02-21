@@ -9,7 +9,7 @@ related_publications: false #true
 ---
 
 
-The [micro:bit] (https://microbit.org/) is a compact, versatile microcontroller designed to simplify programming and digital creation. Widely used in education and rapid prototyping, it features an LED matrix, built-in sensors, and connectivity options that empower users to explore interactive projects and learn coding.
+The [micro:bit](https://microbit.org/) is a compact, versatile microcontroller designed to simplify programming and digital creation. Widely used in education and rapid prototyping, it features an LED matrix, built-in sensors, and connectivity options that empower users to explore interactive projects and learn coding.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
