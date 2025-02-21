@@ -9,7 +9,7 @@ related_publications: false #true
 ---
 
 
-The Micro:bit is a compact, versatile microcontroller designed to simplify programming and digital creation. Widely used in education and rapid prototyping, it features an LED matrix, built-in sensors, and connectivity options that empower users to explore interactive projects and learn coding fundamentals, particularly in Python.
+The [micro:bit] (https://microbit.org/) is a compact, versatile microcontroller designed to simplify programming and digital creation. Widely used in education and rapid prototyping, it features an LED matrix, built-in sensors, and connectivity options that empower users to explore interactive projects and learn coding.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,7 +17,7 @@ The Micro:bit is a compact, versatile microcontroller designed to simplify progr
     </div>
 </div>
 <div class="caption">
-    
+    Microbit used to power robot arm.
 </div>
 
 
@@ -33,6 +33,8 @@ I utilized the Micro:bit to develop a moving robot arm, which is controlled via 
 </div>
 
 
+Currently, I am expanding my exploration of the micro:bit's capabilities by developing methods to collect real time data using its sensors. This initiative is aimed at gathering rich datasets to train advanced AI models.
+
 ---
 
 The [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) is a compact, low-power single-board computer. Its affordability, versatility, and strong community support have made it a popular among hobbyists and learners for a multitude of DIY, educational, and IoT projects.
@@ -45,7 +47,7 @@ I utilized the [Raspberry Pi zero](https://www.raspberrypi.com/products/raspberr
     </div>
 </div>
 <div class="caption">
-    Raspberry pi zero used Pi-hole.
+    Raspberry pi zero used for Pi-hole.
 </div>
 
 
