@@ -9,7 +9,6 @@ related_publications: false #true
 ---
 
 
-# Project Management: Electronic Music Festivals
 
 At [Beyond Music ASBL](https://www.beyondmusic.lu/) label, I utilize my project management skills to co-organize and manage electronic music festivals, handling cross-functional teams through every phase of the project—from initiation and planning to execution and closure. My role involves strategic planning, risk management, and ensuring seamless collaboration to deliver successful events and experiences that resonate with our audience.
 
@@ -19,15 +18,15 @@ In this first festival, we focused on [brief description of the event theme/goal
 *Key highlights: Initiation, Detailed Planning, Effective Execution*
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_bm/vianden2_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_bm/vianden2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    You can also have artistically styled 1/2 + 1/2 images, like these.
 </div>
 
 
