@@ -10,7 +10,7 @@ related_publications: false #true
 
 
 
-At [Beyond Music ASBL](https://www.beyondmusic.lu/) label, I utilize my project management skills to co-organize and manage electronic music festivals, handling cross-functional teams through every phase of the project—from initiation and planning to execution and closure. My role involves strategic planning, risk management, and ensuring seamless collaboration to deliver successful events and experiences that resonate with our audience.
+At [Beyond Music ASBL](https://www.beyondmusic.lu/), I utilize my project management skills to co-organize and manage electronic music festivals, handling cross-functional teams through every phase of the project—from initiation and planning to execution and closure. My role involves strategic planning, risk management, and ensuring seamless collaboration to deliver successful events and experiences that resonate with our audience.
 
 
 ---
