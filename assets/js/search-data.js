@@ -43,7 +43,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-embedded-systems",
           title: 'embedded systems',
-          description: "raspberry-pi &amp; micro:bit",
+          description: "micro:bit &amp; raspberry pi",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chipset/";
             },},{id: "projects-project-management",
