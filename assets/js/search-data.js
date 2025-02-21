@@ -43,7 +43,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-3d-print",
           title: '3d print',
-          description: "printing &amp; designing funtional parts",
+          description: "designing &amp; printing funtional parts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3dprint/";
             },},{id: "projects-embedded-systems",
