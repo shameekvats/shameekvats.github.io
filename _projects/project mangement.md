@@ -17,19 +17,8 @@ At [Beyond Music ASBL](https://www.beyondmusic.lu/) label, I utilize my project 
 In this first festival, we focused on [brief description of the event theme/goal]. The planning phase involved setting clear objectives and timelines, while the execution showcased our team's ability to adapt and innovate in real-time.  
 *Key highlights: Initiation, Detailed Planning, Effective Execution*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden2_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 1/2 + 1/2 images, like these.
-</div>
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -39,7 +28,7 @@ In this first festival, we focused on [brief description of the event theme/goal
     This image can also have a caption. It's like magic.
 </div>
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -49,39 +38,57 @@ In this first festival, we focused on [brief description of the event theme/goal
     This image can also have a caption. It's like magic.
 </div>
 
+
+
 ## Festival 2: [Event Name]
 
 The second event built on our previous success by introducing [brief description of new elements or focus]. This festival emphasized enhanced team coordination and agile problem-solving during the execution phase, leading to an even more engaging experience for attendees.  
 *Key highlights: Strategic Planning, Risk Management, Agile Execution*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 1/2 + 1/2 images, like these.
+    This image can also have a caption. It's like magic.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 
 ## Festival 3: [Event Name]
 
 The third festival represented our ongoing commitment to innovation in event management. Through meticulous planning and execution, we navigated complex challenges and delivered a memorable experience that further solidified our reputation in the electronic music scene.  
 *Key highlights: Effective Initiation, Coordinated Execution, Continuous Improvement*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/harmony_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/harmony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/harmony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 1/2 + 1/2 images, like these.
+    This image can also have a caption. It's like magic.
 </div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/harmony_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 
 ## Leadership & Board Membership
 
