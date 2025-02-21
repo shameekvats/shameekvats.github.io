@@ -41,7 +41,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-embedded-systems",
+          section: "News",},{id: "projects-3d-print",
+          title: '3d print',
+          description: "printing &amp; designing funtional parts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3dprint/";
+            },},{id: "projects-embedded-systems",
           title: 'embedded systems',
           description: "micro:bit &amp; raspberry pi",
           section: "Projects",handler: () => {
