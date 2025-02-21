@@ -49,9 +49,8 @@ These lamps were 3D printed, then fitted with LED lights and tea lights to creat
     Caption (L) LED desklamp (M) Reading ghost tealight (R) Red bunny teallight.
 </div>
 
-
-
-
-
 ---
 
+3D designing with parametric software plays a vital role in prototyping. By carefully measuring the precise dimensions needed, everyday objects can be designed into digital models before printing it. 
+
+The ability to accurately record measurements and convert them into exact 3D designs means that every object is tailored for its intended use. This approach not only streamlines the prototyping process but also makes it easy to bring custom, practical solutions to life, ready to be 3D printed as needed.
