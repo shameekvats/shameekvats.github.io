@@ -3,14 +3,15 @@ layout: page
 title: embedded systems
 description: raspberry-pi & micro:bit
 img: assets/img/project_headers/chipset.jpg
-importance: 1
+importance: 2
 category: portfolio #work
 related_publications: false #true
 ---
 
 
-
 The [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) is a compact, low-power single-board computer. Its affordability, versatility, and strong community support have made it a popular among hobbyists and learners for a multitude of DIY, educational, and IoT projects.
+
+
 ---
 
 ### Pi-hole Project
