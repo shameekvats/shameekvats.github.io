@@ -54,3 +54,18 @@ These lamps were 3D printed, then fitted with LED lights and tea lights to creat
 3D designing with parametric software plays a vital role in prototyping. By carefully measuring the precise dimensions needed, everyday objects can be designed into digital models before printing it. 
 
 The ability to accurately record measurements and convert them into exact 3D designs means that every object is tailored for its intended use. This approach not only streamlines the prototyping process but also makes it easy to bring custom, practical solutions to life, ready to be 3D printed as needed.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/cad/warriors.png" title="warriors" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/cad/lego.png" title="lego" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/cad/box.png" title="box" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A wireless mouse with a usb dongle.
+</div>
