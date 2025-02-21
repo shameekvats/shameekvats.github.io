@@ -55,6 +55,8 @@ These lamps were 3D printed, then fitted with LED lights and tea lights to creat
 
 The ability to accurately record measurements and convert them into exact 3D designs means that every object is tailored for its intended use. This approach not only streamlines the prototyping process but also makes it easy to bring custom, practical solutions to life, ready to be 3D printed as needed.
 
+Below are some 3D designs that show how combining digital design and 3D printing can turn ideas into practical prototypes.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_3d/cad/warriors.png" title="warriors" class="img-fluid rounded z-depth-1" %}
@@ -67,5 +69,5 @@ The ability to accurately record measurements and convert them into exact 3D des
     </div>
 </div>
 <div class="caption">
-    A wireless mouse with a usb dongle.
+    (L) Warriors Cricket Club logo placard (M) Lego block (R) A box with a lid.
 </div>
