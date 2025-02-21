@@ -2,7 +2,7 @@
 layout: page
 title: website design
 description: with dynamic layouts
-img: assets/img/Web_development.jpg
+img: assets/img/project_headers/Web_development.jpg
 importance: 1
 category: portfolio #work
 related_publications: false #true
