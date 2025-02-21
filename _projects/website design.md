@@ -23,4 +23,4 @@ The Warriors Cricket Club website is a clean, community-focused platform that br
 
 The BioCel-3D website is a sleek, research-focused platform that highlights a pioneering project dedicated to developing sustainable cellulose fibers for reinforced 3D printed composites. It clearly presents the project's inspiration, innovative methodologies in electro-spinning recycled cellulose, and its potential impact on industries such as automotive, aerospace, and biomedical. The site offers detailed insights into the consortium's work, research updates, publications, and opportunities for collaboration.
 
-<iframe src="https://www.biocel3d.eu/" width="100%" height="500px" style="border:none;"></iframe>
+<!-- <iframe src="https://www.biocel3d.eu/" width="100%" height="500px" style="border:none;"></iframe> -->
