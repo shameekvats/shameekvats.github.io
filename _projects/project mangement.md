@@ -12,12 +12,12 @@ related_publications: false #true
 
 At [Beyond Music ASBL](https://www.beyondmusic.lu/) label, I utilize my project management skills to co-organize and manage electronic music festivals, handling cross-functional teams through every phase of the project—from initiation and planning to execution and closure. My role involves strategic planning, risk management, and ensuring seamless collaboration to deliver successful events and experiences that resonate with our audience.
 
-## Festival 1: [Event Name]
 
-In this first festival, we focused on [brief description of the event theme/goal]. The planning phase involved setting clear objectives and timelines, while the execution showcased our team's ability to adapt and innovate in real-time.  
-*Key highlights: Initiation, Detailed Planning, Effective Execution*
+---
 
+After the resounding success of our previous event in 2023, we made a triumphant return to Vianden Castle on an even grander scale. The project transformed the historic castle grounds into an electronic music festival, featuring three distinct stages that offered unique atmospheres and musical experiences.
 
+The event was organized with a cross-functional team of 50 dedicated professionals coordinated every aspect of the project, resulting in an outreach that attracted over 1,000 enthusiastic attendees. A carefully curated lineup of more than 10 national and international artists showcased a balanced blend of local and global talent, underscoring the strategic and creative efforts invested in the festival.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,8 +39,8 @@ In this first festival, we focused on [brief description of the event theme/goal
 </div>
 
 
+---
 
-## Festival 2: [Event Name]
 
 The second event built on our previous success by introducing [brief description of new elements or focus]. This festival emphasized enhanced team coordination and agile problem-solving during the execution phase, leading to an even more engaging experience for attendees.  
 *Key highlights: Strategic Planning, Risk Management, Agile Execution*
@@ -65,7 +65,7 @@ The second event built on our previous success by introducing [brief description
 </div>
 
 
-## Festival 3: [Event Name]
+
 
 The third festival represented our ongoing commitment to innovation in event management. Through meticulous planning and execution, we navigated complex challenges and delivered a memorable experience that further solidified our reputation in the electronic music scene.  
 *Key highlights: Effective Initiation, Coordinated Execution, Continuous Improvement*
