@@ -45,7 +45,7 @@ I utilized the [Raspberry Pi zero](https://www.raspberrypi.com/products/raspberr
     </div>
 </div>
 <div class="caption">
-    
+    Raspberry pi zero used Pi-hole.
 </div>
 
 
