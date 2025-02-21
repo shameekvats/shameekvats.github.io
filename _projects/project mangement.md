@@ -29,7 +29,25 @@ In this first festival, we focused on [brief description of the event theme/goal
     You can also have artistically styled 1/2 + 1/2 images, like these.
 </div>
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
 
 ## Festival 2: [Event Name]
 
