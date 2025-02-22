@@ -98,4 +98,4 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
 
 ## Leadership & Board Membership
 
-In addition to managing these festivals, I serve serve on the board of Beyond Musics, where I contribute to decision making and strategic direction. This role underscores my commitment to leadership, ensuring that every project is not only a creative success but also a strategic triumph.
+In addition to managing these festivals, I serve on the board of Beyond Musics, where I contribute to decision making and strategic direction. This role underscores my commitment to leadership, ensuring that every project is not only a creative success but also a strategic triumph.

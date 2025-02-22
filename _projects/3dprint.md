@@ -69,5 +69,5 @@ Below are some 3D designs that show how combining digital design and 3D printing
     </div>
 </div>
 <div class="caption">
-    (L) Warriors Cricket Club logo placard (M) Lego block (R) A box with a lid.
+    (L) [Warriors Cricket Club](https://warriorscricket.eu/) logo placard (M) Lego block (R) A box with a lid.
 </div>
