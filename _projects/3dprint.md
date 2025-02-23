@@ -13,6 +13,24 @@ related_publications: false #true
 
 Below are some examples of 3D prints and prototypes I made.
 
+These colored lithophanes were 3D printed with intricate detail and precision. Framed in a light box, they transform everyday images into a captivating play of light and color.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane1.jpg" title="litho1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane2.jpg" title="litho2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane3.jpg" title="litho3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Colored lithophanes printed and framed with LEDs.
+</div>
+
+
 A custom wireless mouse with a unique 3D printed case and then carefully assembled the hardware, including a wireless dongle for seamless operation. The result was a fully functional device with practical electronics assembly.
 
 
