@@ -51,6 +51,11 @@ ninja.data = [{
           description: "micro:bit &amp; raspberry pi",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chipset/";
+            },},{id: "projects-electrospinning",
+          title: 'electrospinning',
+          description: "nanofibers from polymer solutions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electrospinning/";
             },},{id: "projects-project-management",
           title: 'project management',
           description: "event organization &amp; management",
