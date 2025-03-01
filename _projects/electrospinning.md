@@ -10,7 +10,6 @@ related_publications: false #true
 
 Electrospinning is a process that uses electrical forces to draw ultra-fine fibers from a polymer solution, creating lightweight, porous nanofiber mats. These mats find applications in areas like filtration, tissue engineering, and advanced composite materials.
 
-Holding a PhD in electrospinning, I have gained hands-on experience by designing my own setups and operating a range of machines—both commercial and self-built. My work has taken me across Luxembourg, Portugal, Spain, and Slovenia, where I explored innovative techniques to produce high-quality nanofibers. Below are images and videos that capture the process and showcase the intricate results of these projects.
 
 
 <!-- Insert videos here -->
@@ -60,6 +59,7 @@ Holding a PhD in electrospinning, I have gained hands-on experience by designing
     (L) (C) (R).
 </div>
 
+Holding a PhD in electrospinning, I have gained hands-on experience by designing my own setups and operating a range of machines—both commercial and self-built. My work has taken me across Luxembourg, Portugal, Spain, and Slovenia, where I explored innovative techniques to produce high-quality nanofibers. Below are images and videos that capture the process and showcase the intricate results of these projects.
 
 
 <div class="row justify-content-sm-center">
