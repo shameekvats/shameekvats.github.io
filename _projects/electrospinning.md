@@ -61,6 +61,20 @@ Holding a PhD in electrospinning, I have gained hands-on experience by designing
 </div>
 
 
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_e-spin/espin_fluidnatek.JPG" title="espin equipment" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_e-spin/setup.png" title="lab design setup" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
+
 ---
 
 <!-- Insert video here -->
