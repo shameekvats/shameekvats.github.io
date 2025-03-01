@@ -81,7 +81,7 @@ Holding a PhD in electrospinning, I have gained hands-on experience by designing
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
         <video controls class="img-fluid rounded z-depth-1">
-            <source src="assets/img/project_e-spin/movie3.mp4" type="video/mp4">
+            <source src="{{ 'assets/img/project_e-spin/movie3.mp4' | relative_url }}" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
