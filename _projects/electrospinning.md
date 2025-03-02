@@ -63,6 +63,16 @@ Below are images showing liquid crystals on their own and integrated within fibe
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+---
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_e-spin/fiber1.jpg" title="fiber" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_e-spin/sem.jpg" title="sem" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Holding a PhD in electrospinning, I have gained hands-on experience by designing my own setups and operating a range of machines—both commercial and self-built. My work has taken me across Luxembourg, Portugal, Spain, and Slovenia, where I explored innovative techniques to produce high-quality nanofibers. Below are images and videos that capture the process and showcase the intricate results of these projects.
 
