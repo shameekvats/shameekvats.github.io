@@ -29,6 +29,10 @@ Below are two videos from the production process: one shows fiber formation usin
     </video>
   </div>
 </div>
+<div class="caption text-center">
+  <p><strong>Left:</strong> Fiber formation using a single polymer solution.</p>
+  <p><strong>Right:</strong> Two-fluid setup for creating composite fibers.</p>
+</div>
 
 
 Below are two images capturing the fibers produced through electrospinning. The optical image shows the overall structure, while the scanning electron microscopy image reveals the fine details and texture at a microscopic level.
