@@ -102,6 +102,6 @@ Below is a short video showing an interesting experiment where we measure the fo
     </div>
 </div>
 
+---
 
-
-Interested in electrospinning? My services are available for hire and collaboration—let's bring your project to life!
+**Interested in electrospinning? My services are available for hire and collaboration—let's bring your project to life!**
