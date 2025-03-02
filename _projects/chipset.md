@@ -3,7 +3,7 @@ layout: page
 title: embedded systems
 description: micro:bit & raspberry pi
 img: assets/img/project_headers/chipset.jpg
-importance: 5
+importance: 4
 category: portfolio #work
 related_publications: false #true
 ---
