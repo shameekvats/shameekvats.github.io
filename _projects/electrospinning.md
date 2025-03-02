@@ -38,15 +38,16 @@ Below are two videos from the production process: one shows fiber formation usin
 Below are two images capturing the fibers produced through electrospinning. The optical image shows the overall structure, while the scanning electron microscopy image reveals the fine details and texture at a microscopic level.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_e-spin/fiber1.jpg" title="fiber" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_e-spin/sem.jpg" title="sem" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Picture 1: Electrospun fibers optically observed, highlighting their overall structure.  
+    Picture 2: A SEM Image, view of the fibers, revealing fine surface details and textures.
 </div>
 
 I have produced fibers using a variety of materials, including biodegradable polymers, liquid crystals, and shape memory materials. Each material offers unique properties, which open up a range of possibilities.
@@ -56,27 +57,19 @@ These fibers have been explored for different applications such as sensors, filt
 Below are images showing liquid crystals on their own and integrated within fibers. These liquid crystals, similar to those used in LCD displays, offer unique optical properties that can be harnessed for smart materials and innovative applications.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_e-spin/Image_31.png" title="lc_shells" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/project_e-spin/fiber_lc.png" title="fiber_lc" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Image 1: Liquid crystals visualized under crossed polarized light.  
+    Image 2: Liquid crystals embedded within electrospun fibers.
 </div>
 
----
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/fiber1.jpg" title="fiber" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/sem.jpg" title="sem" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 Holding a PhD in electrospinning, I have gained hands-on experience by designing my own setups and operating a range of machines—both commercial and self-built. My work has taken me across Luxembourg, Portugal, Spain, and Slovenia, where I explored innovative techniques to produce high-quality nanofibers. Below are images and videos that capture the process and showcase the intricate results of these projects.
 
@@ -90,7 +83,8 @@ Holding a PhD in electrospinning, I have gained hands-on experience by designing
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Picture 1: Captured in Spain with commercial electrospinning equipment.
+    Picture 2: A self-designed, basic electrospinning setup in the lab
 </div>
 
 
