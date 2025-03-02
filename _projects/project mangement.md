@@ -3,7 +3,7 @@ layout: page
 title: project management
 description: event organization & management
 img: assets/img/project_headers/project_management.jpg
-importance: 1
+importance: 3
 category: portfolio #work
 related_publications: false #true
 ---

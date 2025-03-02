@@ -3,7 +3,7 @@ layout: page
 title: 3d print
 description: designing & printing funtional parts
 img: assets/img/project_headers/3dprint.jpg
-importance: 1
+importance: 2
 category: portfolio #work
 related_publications: false #true
 ---
