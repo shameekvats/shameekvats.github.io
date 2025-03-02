@@ -27,33 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**This website is under development** 
-
-<!-- I am dedicated to bridging the digital and physical realms through advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301), I have gained extensive expertise in fiber spinning and other cutting-edge fabrication techniques. My skills and experiences across multiple countries have offered me with a global perspective on tackling complex challenges. -->
-
-I connect digital ideas with the real world using advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301)(more on [projects](https://shameekvats.github.io/projects/electrospinning/) page) , I’ve become skilled in fiber spinning and modern fabrication techniques. Working in different countries has given me a broad view to solve challenging problems.
-
-<!-- My work focuses on developing innovative solutions that integrate:  
-- **Fiber Spinning** : Production of nanofibers to pioneer new material formulations and manufacturing methods.
-- **Project Management:** Co-organizing and co-managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
-- **Additive Manufacturing & 3D Modeling** : Utilizing [Onshape](https://www.onshape.com/en/) to design parametric models and 3D printing techniques to design and prototype functional components.  
-- **Embedded & IoT Systems** : Experimenting with platforms like [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to create interactive, real-world applications.  
-- **Data-Driven Automation** : Leveraging Python for automation, data analysis, and the optimization of research and development processes.   -->
+I connect digital ideas with the real world using advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301) (more on [projects](https://shameekvats.github.io/projects/electrospinning/) page) , I’ve become skilled in fiber spinning and modern fabrication techniques. Working in different countries has given me a broad view to solve challenging problems.
 
 My work blends technology and creativity by integrating:  
 - **Fiber Spinning:** Producing nanofibers to explore advanced applications.  
 - **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
-- **Additive Manufacturing & 3D Modeling:** Using [Onshape](https://www.onshape.com/en/) for parametric design and 3D printing prototypes.  
+- **3D Design & Print:** Parametric design for 3D printed prototypes.  
 - **Embedded & IoT Systems:** Experimenting with [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to build interactive projects.  
 - **Data-Driven Automation:** Using Python for automation, analysis, and streamlining workflow.
 
-<!-- I believe that curiosity, collaboration, and creativity are key to transforming challenges into opportunities. In my spare time, I enjoy playing [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and [reading](https://www.goodreads.com/user/show/50895425-shameek-vats), pursuits that keep me energized and inspire new ideas.   -->
 
 Curiosity, collaboration, and creativity turn challenges into opportunities. In my free time, I enjoy [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and [reading](https://www.goodreads.com/user/show/50895425-shameek-vats) to stay inspired and energized.
 
 ---
-
-<!-- If you’re interested in discussing potential collaborations, research projects, or any forward-thinking ventures at the intersection of materials science, advanced manufacturing, and digital innovation, please reach out. -->
 
 **My services are available for hire. If you're interested in collaborating on innovative projects in materials science, advanced manufacturing, or digital innovation, let's connect.**
 
