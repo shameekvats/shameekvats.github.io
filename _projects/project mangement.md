@@ -33,25 +33,6 @@ The event was organized with a cross-functional team of 50 dedicated professiona
 
 
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2.jpg" title="Viaden2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2_1.jpg" title="Vianden2.1" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    
-</div> -->
-
 ---
 
 
@@ -75,25 +56,6 @@ Set against the backdrop of a castle with a history dating back to the Roman era
 </div>
 
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden1_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    
-</div> -->
-
 ---
 
 
@@ -112,25 +74,6 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
     
 </div>
 
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/harmony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    
-</div>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_bm/harmony_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-   
-</div> -->
 
 ---
 
