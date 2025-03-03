@@ -19,7 +19,21 @@ After the resounding success of our previous event in 2023, we made a triumphant
 
 The event was organized with a cross-functional team of 50 dedicated professionals coordinated every aspect of the project, resulting in an outreach that attracted over 1,000 enthusiastic attendees. A carefully curated lineup of more than 10 national and international artists showcased a balanced blend of local and global talent, underscoring the strategic and creative efforts invested in the festival.
 
-<div class="row">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/vianden2.jpg" title="vianden2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/vianden2_1.jpg" title="Vianden2.1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
+
+
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden2.jpg" title="Viaden2" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -36,8 +50,7 @@ The event was organized with a cross-functional team of 50 dedicated professiona
 </div>
 <div class="caption">
     
-</div>
-
+</div> -->
 
 ---
 
@@ -49,8 +62,20 @@ The event featured two distinct stages, each delivering a unique musical journey
 Set against the backdrop of a castle with a history dating back to the Roman era—built between the 11th and 14th centuries and once home to the powerful Counts of Vianden—the event celebrated Luxembourg’s rich cultural heritage while marking a new era for electronic music.
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/vianden1.jpg" title="vianden1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/vianden1_1.jpg" title="Vianden1.1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
 
-<div class="row">
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_bm/vianden1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -67,7 +92,7 @@ Set against the backdrop of a castle with a history dating back to the Roman era
 </div>
 <div class="caption">
     
-</div>
+</div> -->
 
 ---
 
@@ -75,7 +100,20 @@ Set against the backdrop of a castle with a history dating back to the Roman era
 Beyond Music, in collaboration with a local bar, presented our inaugural festival, named Harmony, an intimate celebration held in the heart of the city at the iconic Place de l’Europe. With a limited capacity of 800 attendees, the event showcased a meticulously curated lineup of 7 artists, headlined by the renowned Denis Horvat, marking his Grand Duchy debut. Through rigorous planning and a coordinated effort from our cross-functional team, we delivered a seamless, multi-sensory experience that combined innovative soundscapes with captivating visuals. This milestone event set a new standard for live electronic music in Luxembourg, blending creative ambition with precise project management.
 
 
-<div class="row">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/harmony.jpg" title="harmony1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_bm/harmony_1.jpg" title="harmony1.1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    
+</div>
+
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_bm/harmony.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -92,7 +130,7 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
 </div>
 <div class="caption">
    
-</div>
+</div> -->
 
 ---
 
