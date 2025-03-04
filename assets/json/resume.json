@@ -36,28 +36,6 @@
       "highlights": ["Electrospinning", "3D Printing", "Product Development"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Beyond Music ASBL",
-      "location": "Luxembourg",
-      "position": "Project Manager",
-      "url": "https://www.beyondmusic.lu/",
-      "startDate": "Present",
-      "endDate": "2020-10-01",
-      "summary": "Organizing electronic music festivals and events in unique and culturally significant locations in Luxembourg.",
-      "highlights": ["Board Member", "Event Organization", "Risk Analysis", "Concept Development", "Project Management"]
-    },
-    {
-      "organization": "Warriors Sports Club ASBL",
-      "location": "Luxembourg",
-      "position": "Communications Team",
-      "url": "https://warriorscricket.eu/default.aspx",
-      "startDate": "Present",
-      "endDate": "2021-10-01",
-      "summary": "Along with captaining the cricket team, I am responsible for designing and maintaining the club's website, creating an online experience as seamless as a well-coordinated cricket strategy.",
-      "highlights": ["Website Design", "Strategy, Planning & Execution","Communication & Outreach", "Team Captain"]
-    }
-  ],
   "freelance": [
     {
       "organization": "Beyond Music ASBL",
