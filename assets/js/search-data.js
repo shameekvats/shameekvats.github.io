@@ -56,6 +56,11 @@ ninja.data = [{
           description: "nanofibers from polymer solutions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electrospinning/";
+            },},{id: "projects-industrial-robotics",
+          title: 'industrial robotics',
+          description: "early steps in automation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/industrial-robotics/";
             },},{id: "projects-project-management",
           title: 'project management',
           description: "event organization &amp; management",
