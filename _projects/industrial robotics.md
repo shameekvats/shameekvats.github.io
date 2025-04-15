@@ -8,7 +8,9 @@ category: portfolio #work
 related_publications: false #true
 ---
 
-This project marks the beginning of my exploration into industrial robotics. I set up a simulated production line using a Dobot Magician robot, where a continuous conveyor belt delivers cubes in different colors. Programmed in Python, the robot picks up each cube, moves it to a sensor that identifies its color, and then sorts it into the appropriate container. By working with three distinct colors, this experiment not only demonstrates basic automation but also fuels my curiousity for merging robotics with digital programming. It’s an exciting early step in my journey into industrial robotics and refine my skills in Python-driven automation.
+This project marks the beginning of my exploration into industrial robotics, a field where programming meets real-world machinery. I set up a simulated production line using a Dobot Magician robot, where a continuous conveyor belt delivers cubes in different colors. Programmed in Python, the robot picks up each cube, takes it to a detection point, and then sorts it into the correct container based on its color.
+
+To ensure smooth operation, I integrated a light sensor and an infrared sensor into the setup. The light sensor detects the cube's color, while the infrared sensor controls the process by automatically turning it on or off when cubes are present. Working with three distinct colors not only demonstrates the basics of automation, but also fuels my curiosity for merging robotics with digital programming. This project is an exciting early step in refining my skills in Python-driven automation.
 
 Below is a video showcasing the setup in action.
 
