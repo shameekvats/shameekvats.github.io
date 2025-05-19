@@ -67,7 +67,11 @@ These lamps were 3D printed, then fitted with LED lights and tea lights to creat
     Caption (L) LED desklamp (M) Reading ghost tealight (R) Red bunny teallight.
 </div>
 
+
+
 Explore a curated catalog of some of my 3D printed products [here](https://shameekvats.notion.site/3D-Print-Catalog-17ec51e3f5e58044b904d319d84d3871?pvs=4).
+
+
 ---
 
 3D designing with parametric software plays a vital role in prototyping. By carefully measuring the precise dimensions needed, everyday objects can be designed into digital models before printing it. 
