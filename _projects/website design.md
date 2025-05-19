@@ -19,6 +19,12 @@ The Warriors Cricket Club website is a clean, community-focused platform that br
 
 ---
 
+<!-- <iframe src="https://shameekvats.notion.site/ebd/17ec51e3f5e58044b904d319d84d3871" width="100%" height="600" frameborder="0" allowfullscreen /> -->
+
+<iframe src="https://shameekvats.notion.site/3D-Print-Catalog-17ec51e3f5e58044b904d319d84d3871?pvs=4" width="100%" height="500px" style="border:none;"></iframe>
+
+---
+
 ### [BioCel-3D](https://www.biocel3d.eu/)
 
 The BioCel-3D website is a sleek, research-focused platform that highlights a pioneering project dedicated to developing sustainable cellulose fibers for reinforced 3D printed composites. It clearly presents the project's inspiration, innovative methodologies in electro-spinning recycled cellulose, and its potential impact on industries such as automotive, aerospace, and biomedical. The site offers detailed insights into the consortium's work, research updates, publications, and opportunities for collaboration.
