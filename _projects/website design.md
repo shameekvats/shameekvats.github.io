@@ -22,9 +22,7 @@ The Warriors Cricket Club website is a clean, community-focused platform that br
 
 An interactive catalog showcasing a range of 3D printed products. Designed to be visually engaging and easy to navigate, the site organizes items by category, includes detailed previews, and supports project documentation. It serves as both a portfolio and a reference for ongoing and completed prints.
 
-<iframe src="https://shameekvats.notion.site/ebd/17ec51e3f5e58044b904d319d84d3871" width="100%" height="600" frameborder="0" allowfullscreen /></iframe>
-
-<iframe src="https://shameekvats.notion.site/3D-Print-Catalog-17ec51e3f5e58044b904d319d84d3871?pvs=4" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="https://shameekvats.notion.site/ebd/17ec51e3f5e58044b904d319d84d3871" width="100%" height="600" frameborder="0" allowfullscreen />
 
 ---
 
