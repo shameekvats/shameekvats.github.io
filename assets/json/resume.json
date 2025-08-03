@@ -121,7 +121,9 @@
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
-        "C++"
+        "C",
+        "C++",
+        "Markdown"
       ]
     },
     {
@@ -150,7 +152,10 @@
       "icon": "fa-solid fa-tasks",
       "keywords": [
         "Project Management",
+        "Professional Scrum Master (PSM I)",
+        "Agile Methodologies",
         "Product Development",
+        "Event Management",
         "Grant Writing"
       ]
     }
