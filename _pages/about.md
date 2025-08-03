@@ -29,6 +29,8 @@ latest_posts:
 
 I connect digital ideas with the real world using advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301) (more on [projects](https://shameekvats.github.io/projects/electrospinning/) page) , I’ve become skilled in fiber spinning and modern fabrication techniques. Working in different countries has given me a broad view to solve challenging problems.
 
+Alongside my technical work, I’m a **certified Professional Scrum Master (PSM I)** with experience in **Agile methodology** of project management, applying collaborative, iterative workflows to both research and creative projects.
+
 My work blends technology and creativity by integrating:  
 - **Fiber Spinning:** Producing nanofibers to explore advanced applications.  
 - **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
