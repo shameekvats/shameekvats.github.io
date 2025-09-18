@@ -34,7 +34,7 @@ Alongside my technical work, I’m a **certified Professional Scrum Master (PSM 
 My work blends technology and creativity by integrating:  
 - **Polymer Engineering:** Producing nanofibers to explore advanced applications.  
 - **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
-- **3D Design & Print:** Parametric design for 3D printed prototypes.  
+- **3D Design & Print:** Parametric design for 3D printed prototypes; documenting the progression from hobby to project at [Project t-3d](https://t-3d.me/).  
 - **Embedded & IoT Systems:** Experimenting with [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to build interactive projects.  
 - **Data-Driven Automation:** Using Python for automation, analysis, and streamlining workflow.
 
