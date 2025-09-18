@@ -27,12 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I connect digital ideas with the real world using advanced manufacturing, microelectronics, robotics, and programming. With a Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301) (more on [projects](https://shameekvats.github.io/projects/electrospinning/) page) , I’ve become skilled in fiber spinning and modern fabrication techniques. Working in different countries has given me a broad view to solve challenging problems.
+I am a Materials Engineer focused on polymers, with a specialization in fiber production via electrospinning. My Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301) (see detailed work on the [projects](https://shameekvats.github.io/projects/electrospinning/) page) underpins my expertise in polymer processing, nanofiber production, and advanced fabrication techniques. I also develop programming skills to complement my research and hobbies—using software and automation to accelerate experiments, analyze data, and build interactive projects. Working and collaborating across multiple countries has broadened my perspective for solving complex, interdisciplinary problems.
 
 Alongside my technical work, I’m a **certified Professional Scrum Master (PSM I)** with experience in **Agile methodology** of project management, applying collaborative, iterative workflows to both research and creative projects.
 
 My work blends technology and creativity by integrating:  
-- **Fiber Spinning:** Producing nanofibers to explore advanced applications.  
+- **Polymer Engineering:** Producing nanofibers to explore advanced applications.  
 - **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
 - **3D Design & Print:** Parametric design for 3D printed prototypes.  
 - **Embedded & IoT Systems:** Experimenting with [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to build interactive projects.  
