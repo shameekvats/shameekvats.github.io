@@ -22,7 +22,7 @@ The Warriors Cricket Club website is a clean, community-focused platform that br
 
 I have converted my 3D printing hobby into a project called t-3d. This clean and intuitive website created in Astro captures the idea and shows the progress of my journey from hobbyist to project creator. The site provides detailed insights into the project's evolution, design philosophy, and the various milestones achieved along the way.
 
-<iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" allowfullscreen />
+<iframe src="https://t-3d.me/" width="100%" height="500px" style="border:none;"></iframe>
 
 ---
 
