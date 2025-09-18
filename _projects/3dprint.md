@@ -8,10 +8,29 @@ category: portfolio #work
 related_publications: false #true
 ---
 
+## From Beginner to Advanced Creator
 
-3D printing, especially using Fused Deposition Modeling (FDM), has changed the way I quickly create parts for electronics and detailed projects. By using advanced plastic materials, I can build strong and precise pieces that fit perfectly with electronic devices. Thanks to my background in materials science and polymers, I carefully choose materials that are both tough and capable of capturing fine details. This method turns simple plastic filaments into well-made prototypes and final parts, from custom cases and connector housings to supports and interactive components. The flexibility of FDM not only inspires new ideas in design and engineering but also helps turn creative concepts into real-world products, making it an essential tool in my work.
+What started as a curiosity about 3D printing has evolved into a comprehensive journey of design, engineering, and advanced manufacturing. Over the years, I've progressed from simple prints to complex, multi-material projects that combine my materials science background with cutting-edge 3D printing techniques.
 
-Below are some examples of 3D prints and prototypes I made.
+My experience spans from basic FDM printing to advanced techniques including multi-color printing, parametric design, and functional prototyping. Each project has been a learning opportunity, pushing the boundaries of what's possible with additive manufacturing.
+
+---
+
+## Project t-3d: The Complete Journey
+
+I've documented my entire 3D printing evolution in **Project t-3d** - a comprehensive platform showcasing the progression from hobby enthusiast to advanced maker. This website captures not just the final products, but the learning process, challenges overcome, and innovations developed along the way.
+
+<div class="mt-4 mb-4">
+<iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
+</div>
+
+---
+
+## Early Projects: Building the Foundation
+
+These projects represent the early stages of my 3D printing journey, where I focused on mastering fundamental techniques and exploring creative possibilities. Each project taught valuable lessons that contributed to my current expertise.
+
+### Artistic Explorations
 
 These colored lithophanes were 3D printed with intricate detail and precision. Framed in a light box, they transform everyday images into a captivating play of light and color.
 
@@ -31,7 +50,9 @@ These colored lithophanes were 3D printed with intricate detail and precision. F
 </div>
 
 
-A custom wireless mouse with a unique 3D printed case and then carefully assembled the hardware, including a wireless dongle for seamless operation. The result was a fully functional device with practical electronics assembly.
+### Functional Electronics Integration
+
+Moving beyond decorative prints, I challenged myself with functional electronics projects, combining 3D printing with hardware assembly and programming.
 
 
 <div class="row">
@@ -49,7 +70,9 @@ A custom wireless mouse with a unique 3D printed case and then carefully assembl
     A wireless mouse with a usb dongle.
 </div>
 
-These lamps were 3D printed, then fitted with LED lights and tea lights to create a warm, ambient glow. Each design transform everyday objects into artistic and functional pieces.
+### Lighting Design & Ambiance
+
+These projects explored the intersection of 3D printing and lighting design, creating functional art pieces that transform spaces.
 
 
 <div class="row">
@@ -69,16 +92,23 @@ These lamps were 3D printed, then fitted with LED lights and tea lights to creat
 
 
 
-Explore a curated catalog of some of my 3D printed products [here](https://shameekvats.notion.site/3D-Print-Catalog-17ec51e3f5e58044b904d319d84d3871?pvs=4).
-
-
 ---
 
-3D designing with parametric software plays a vital role in prototyping. By carefully measuring the precise dimensions needed, everyday objects can be designed into digital models before printing it. 
+## Design Evolution: From Concept to Creation
 
-The ability to accurately record measurements and convert them into exact 3D designs means that every object is tailored for its intended use. This approach not only streamlines the prototyping process but also makes it easy to bring custom, practical solutions to life, ready to be 3D printed as needed.
+The journey from idea to printed object requires mastery of parametric design software and precise dimensional planning. This section showcases how digital design skills evolved alongside printing capabilities.
 
-Below are some 3D designs that show how combining digital design and 3D printing can turn ideas into practical prototypes.
+### Parametric Design Mastery
+
+Using advanced CAD software, I've developed the ability to create precise, customizable designs that can be easily modified and optimized for different applications. This parametric approach ensures consistency and allows for rapid iteration.
+
+**Current Capabilities:**
+- **Multi-material Design**: Creating parts optimized for different material properties
+- **Tolerance Engineering**: Designing for perfect fit and function
+- **Assembly Planning**: Creating multi-part designs with precise interfacing
+- **Optimization**: Reducing material usage while maintaining structural integrity
+
+### Featured Design Projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -94,3 +124,18 @@ Below are some 3D designs that show how combining digital design and 3D printing
 <div class="caption">
     (L) [Warriors Cricket Club](https://warriorscricket.eu/) logo placard (M) Lego block (R) A box with a lid.
 </div>
+
+---
+
+## Looking Forward: Advanced Manufacturing
+
+This journey represents just the beginning. My current focus includes:
+
+- **Advanced Materials**: Exploring carbon fiber, metal-filled, and specialty filaments
+- **Multi-Process Manufacturing**: Integrating 3D printing with traditional manufacturing
+- **Commercial Applications**: Developing products for market-ready solutions
+- **Sustainability**: Implementing circular design principles and recycled materials
+
+The evolution from hobbyist to advanced practitioner has been driven by curiosity, systematic learning, and continuous experimentation. Each project builds upon previous knowledge, creating a comprehensive understanding of additive manufacturing that extends far beyond basic printing.
+
+**Visit [Project t-3d](https://t-3d.me/) to explore the complete journey, detailed project documentation, and ongoing innovations in 3D printing and design.**
