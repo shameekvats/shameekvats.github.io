@@ -32,7 +32,7 @@ I am a Materials Engineer focused on polymers, with a specialization in fiber pr
 Alongside my technical work, I’m a **certified Professional Scrum Master (PSM I)** with experience in **Agile methodology** of project management, applying collaborative, iterative workflows to both research and creative projects.
 
 My work blends technology and creativity by integrating:  
-- **Polymer Engineering:** Producing nanofibers to explore advanced applications.  
+- **Materials Engineering:** Specializing in polymer science with focus on electrospinning to produce functional nanofibers for sustainable applications. Research encompasses cellulose-based materials, bio-composites, and advanced fiber production techniques.
 - **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
 - **3D Design & Print:** Parametric design for 3D printed prototypes; documenting the progression from hobby to project at [Project t-3d](https://t-3d.me/).  
 - **Embedded & IoT Systems:** Experimenting with [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to build interactive projects.  
