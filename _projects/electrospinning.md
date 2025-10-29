@@ -39,10 +39,10 @@ Below are two images capturing the fibers produced through electrospinning. The 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/fiber1.jpg" title="fiber" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/fiber1.jpg" title="fiber" alt="Optical microscope image of electrospun nanofibers showing uniform fiber structure" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/sem.jpg" title="sem" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/sem.jpg" title="sem" alt="Scanning electron microscopy image revealing detailed surface texture and morphology of electrospun fibers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -58,10 +58,10 @@ Below are images showing liquid crystals on their own and integrated within fibe
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/Image_31.png" title="lc_shells" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/Image_31.png" title="lc_shells" alt="Liquid crystal droplets visualized under crossed polarized light showing distinctive optical patterns" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/fiber_lc.png" title="fiber_lc" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/fiber_lc.png" title="fiber_lc" alt="Liquid crystals embedded within electrospun polymer fibers creating composite smart materials" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,10 +76,10 @@ Holding a PhD in electrospinning, I have gained hands-on experience by designing
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/espin_fluidnatek.JPG" title="espin equipment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/espin_fluidnatek.JPG" title="espin equipment" alt="Commercial Fluidnatek electrospinning equipment setup in Spain laboratory with enclosed chamber and control systems" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_e-spin/setup.png" title="lab design setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_e-spin/setup.png" title="lab design setup" alt="Self-designed basic electrospinning setup showing custom-built apparatus with high voltage power supply" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

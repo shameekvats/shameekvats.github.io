@@ -17,10 +17,10 @@ I utilized the Micro:bit to develop a moving robot arm, which is controlled via 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_chipset/ubit.jpg" title="ubit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_chipset/ubit.jpg" title="ubit" alt="Micro:bit microcontroller board with LED matrix and sensors powering a robot arm" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_chipset/robot_arm.jpg" title="robo-arm" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_chipset/robot_arm.jpg" title="robo-arm" alt="Python-programmed robot arm controlled by Micro:bit with remote control and mobile app integration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -41,10 +41,10 @@ I utilized the [Raspberry Pi zero](https://www.raspberrypi.com/products/raspberr
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_chipset/pi-zero.jpg" title="pi-zero" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_chipset/pi-zero.jpg" title="pi-zero" alt="Raspberry Pi Zero single-board computer showcasing compact low-power computing capabilities" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_chipset/pi-hole.png" title="pi-hole" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_chipset/pi-hole.png" title="pi-hole" alt="Pi-hole dashboard showing network-wide ad blocking statistics and DNS filtering configuration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
