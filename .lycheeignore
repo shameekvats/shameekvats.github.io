@@ -1,2 +1,21 @@
 linkedin.com
 reddit.com
+
+# Localhost URLs (testing documentation)
+http://localhost
+http://127.0.0.1
+
+# Liquid template variables (before Jekyll processes them)
+file://.*%7B%7B.*
+
+# External sites that block automated requests (403 errors)
+https://www.raspberrypi.com
+https://www.espncricinfo.com
+
+# Documentation files with localhost references
+ACCESSIBILITY_TEST_RESULTS.md
+ACCESSIBILITY_AUDIT.md
+
+# Theme documentation files that reference non-existent example pages
+CUSTOMIZE.md
+CONTRIBUTING.md
