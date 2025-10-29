@@ -95,99 +95,68 @@
   ],
   "skills": [
     {
-      "name": "Materials Science & Engineering",
+      "name": "Materials Research",
       "level": "",
       "icon": "fa-solid fa-flask",
       "keywords": [
-        "Electrospinning & Fiber Spinning",
-        "Optical Microscopy & SEM",
-        "Thermal Analysis (DSC, TGA)",
-        "Mechanical Testing",
-        "Rheology & Material Characterization"
+        "Fiber Spinning",
+        "Optical Characterization",
+        "Thermal Analysis",
+        "Mechancial Testing"
       ]
     },
     {
-      "name": "Data Science & Programming",
+      "name": "Data Science",
       "level": "",
       "icon": "fa-solid fa-database",
       "keywords": [
-        "Python (Pandas, NumPy, Matplotlib)",
-        "SQL & Data Analysis",
-        "Data Visualization",
-        "C, C++",
+        "SQL",
+        "Data Analysis",
+        "Data Visualization"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
         "Markdown"
       ]
     },
     {
-      "name": "Digital Fabrication & Hardware",
+      "name": "Web Development",
+      "level": "",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Frontend(HTML, CSS)",
+        "UX Design"
+      ]
+    },
+    {
+      "name": "Hardware",
       "level": "",
       "icon": "fa-solid fa-microchip",
       "keywords": [
-        "3D Printing (FDM, Parametric Design)",
-        "Raspberry Pi & Microbit",
-        "CAD Design"
+        "3D Printing:FDM",
+        "Parametric Design",
+        "Raspberry Pi",
+        "Microbit"
       ]
     },
     {
-      "name": "Web Development & Design",
-      "level": "",
-      "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Frontend (HTML, CSS, JavaScript)",
-        "UX Design",
-        "Jekyll, Astro, Static Site Generators"
-      ]
-    },
-    {
-      "name": "Project Management",
+      "name": "Management",
       "level": "",
       "icon": "fa-solid fa-tasks",
       "keywords": [
-        "Agile Methodologies (Scrum)",
+        "Project Management",
+        "Professional Scrum Master (PSM I)",
+        "Agile Methodologies",
         "Product Development",
-        "Grant Writing & Proposals",
         "Event Management",
-        "Risk Analysis"
-      ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Project Management & Agile",
-      "icon": "fa-solid fa-tasks",
-      "issuer": "",
-      "date": "",
-      "items": [
-        "Professional Scrum Master I",
-        "Design Thinking & Project Management"
-      ]
-    },
-    {
-      "name": "Software Development & DevOps",
-      "icon": "fa-solid fa-code-branch",
-      "issuer": "",
-      "date": "",
-      "items": [
-        "GitLab Mastery: From Basics to Advanced CI/CD",
-        "Programming in C: From Basics to Advanced"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "icon": "fa-solid fa-laptop-code",
-      "issuer": "",
-      "date": "",
-      "items": [
-        "Introduction to Web Development for Beginners"
-      ]
-    },
-    {
-      "name": "Digital Fabrication",
-      "icon": "fa-solid fa-cube",
-      "issuer": "",
-      "date": "",
-      "items": [
-        "Masterclass: FDM 3D Printing - Optimizing for Consistency and Industry Quality"
+        "Grant Writing"
       ]
     }
   ],
