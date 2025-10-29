@@ -21,10 +21,10 @@ The event was organized with a cross-functional team of 50 dedicated professiona
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden2.jpg" title="vianden2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/vianden2.jpg" title="vianden2" alt="Electronic music festival at Vianden Castle with crowd enjoying performance under historic architecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden2_1.jpg" title="Vianden2.1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/vianden2_1.jpg" title="Vianden2.1" alt="Atmospheric night view of electronic music stage at Vianden Castle festival with lighting and crowd" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,10 +45,10 @@ Set against the backdrop of a castle with a history dating back to the Roman era
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden1.jpg" title="vianden1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/vianden1.jpg" title="vianden1" alt="First electronic music event at Vianden Castle with historic fortress backdrop and outdoor stage" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/vianden1_1.jpg" title="Vianden1.1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/vianden1_1.jpg" title="Vianden1.1" alt="DJ performing at Vianden Castle festival with medieval architecture illuminated in background" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -64,10 +64,10 @@ Beyond Music, in collaboration with a local bar, presented our inaugural festiva
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/harmony.jpg" title="harmony1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/harmony.jpg" title="harmony1" alt="Harmony festival at Place de l'Europe with intimate crowd enjoying electronic music performance" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_bm/harmony_1.jpg" title="harmony1.1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_bm/harmony_1.jpg" title="harmony1.1" alt="Denis Horvat headlining Harmony festival with professional stage lighting and engaged audience" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
