@@ -389,7 +389,7 @@ enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
 # -----------------------------------------------------------------------------
-# Website Verification
+# Website Verification (Updated: 2025-10-30)
 # -----------------------------------------------------------------------------
 
 enable_google_verification: true # enables google site verification
