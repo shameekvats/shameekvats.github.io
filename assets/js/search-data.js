@@ -55,9 +55,9 @@ ninja.data = [{
           description: "event organization &amp; management",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project-management/";
-            },},{id: "projects-website-design",
-          title: 'website design',
-          description: "with dynamic layouts",
+            },},{id: "projects-web-development",
+          title: 'web development',
+          description: "building functional websites with modern frameworks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/website-design/";
             },},{
