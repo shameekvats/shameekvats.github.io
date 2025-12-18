@@ -15,60 +15,96 @@ I enjoy building clean, functional websites that effectively communicate informa
 <div class="row mt-4">
     <!-- Warriors Cricket Club Card -->
     <div class="col-md-4 mb-4">
-        <div class="card h-100" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-            <div class="card-body">
-                <h5 class="card-title">
-                    <a href="https://warriorscricket.eu/" target="_blank" rel="noopener noreferrer">Warriors Cricket Club</a>
-                </h5>
-                <div class="mb-3">
-                    <span class="badge bg-primary">Jekyll</span>
-                    <span class="badge bg-secondary">HTML/CSS</span>
-                    <span class="badge bg-info text-dark">Liquid</span>
+        <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
+            <!-- Card Image -->
+            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
+                    🏏
                 </div>
-                <p class="card-text">
-                    A community-focused platform for a cricket club featuring match fixtures, team updates, player profiles, and sponsorship details. Built with Jekyll for easy content management, the site offers intuitive navigation and responsive layouts that work seamlessly across devices, reflecting the club's vibrant spirit and dedication to the sport.
-                </p>
-                <a href="https://warriorscricket.eu/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">Visit Site →</a>
+            </div>
+            <!-- Card Content -->
+            <div style="padding: 1.5rem;">
+                <h4 style="margin-top: 0; margin-bottom: 0.5rem;">
+                    <a href="https://warriorscricket.eu/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Warriors Cricket Club</a>
+                </h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin-bottom: 1rem;">Community cricket platform with fixtures, teams & sponsors</p>
+                
+                <!-- Tech Badges -->
+                <div style="margin-bottom: 1rem;">
+                    <span style="display: inline-block; background: #0d6efd; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">Jekyll</span>
+                    <span style="display: inline-block; background: #6c757d; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">HTML/CSS</span>
+                    <span style="display: inline-block; background: #0dcaf0; color: black; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem;">Liquid</span>
+                </div>
+                
+                <p style="font-size: 0.85rem; line-height: 1.5;">Built with Jekyll for easy content management. Features intuitive navigation, responsive layouts, match fixtures, team updates, and sponsorship details.</p>
+                
+                <div style="margin-top: 1rem;">
+                    <a href="https://warriorscricket.eu/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary" style="margin-right: 0.5rem;">Visit Site →</a>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- Project t-3d Card -->
     <div class="col-md-4 mb-4">
-        <div class="card h-100" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-            <div class="card-body">
-                <h5 class="card-title">
-                    <a href="https://t-3d.me/" target="_blank" rel="noopener noreferrer">Project t-3d</a>
-                </h5>
-                <div class="mb-3">
-                    <span class="badge bg-success">Astro</span>
-                    <span class="badge bg-secondary">HTML/CSS</span>
-                    <span class="badge bg-warning text-dark">JavaScript</span>
+        <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
+            <!-- Card Image -->
+            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
+                    🖨️
                 </div>
-                <p class="card-text">
-                    A personal portfolio site documenting my 3D printing journey from hobbyist to project creator. Built with Astro for lightning-fast performance and static site generation, the site features detailed project documentation, design philosophy, and milestone tracking. Clean layouts and optimized assets ensure quick load times while showcasing the evolution of technical skills.
-                </p>
-                <a href="https://t-3d.me/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-success">Visit Site →</a>
+            </div>
+            <!-- Card Content -->
+            <div style="padding: 1.5rem;">
+                <h4 style="margin-top: 0; margin-bottom: 0.5rem;">
+                    <a href="https://t-3d.me/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Project t-3d</a>
+                </h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin-bottom: 1rem;">Personal 3D printing journey from hobbyist to creator</p>
+                
+                <!-- Tech Badges -->
+                <div style="margin-bottom: 1rem;">
+                    <span style="display: inline-block; background: #198754; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">Astro</span>
+                    <span style="display: inline-block; background: #6c757d; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">HTML/CSS</span>
+                    <span style="display: inline-block; background: #ffc107; color: black; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem;">JavaScript</span>
+                </div>
+                
+                <p style="font-size: 0.85rem; line-height: 1.5;">Lightning-fast static site built with Astro. Documents design philosophy, milestones, and technical evolution with optimized assets and clean layouts.</p>
+                
+                <div style="margin-top: 1rem;">
+                    <a href="https://t-3d.me/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary" style="margin-right: 0.5rem;">Visit Site →</a>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- BioCel-3D Card -->
     <div class="col-md-4 mb-4">
-        <div class="card h-100" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-            <div class="card-body">
-                <h5 class="card-title">
-                    <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer">BioCel-3D</a>
-                </h5>
-                <div class="mb-3">
-                    <span class="badge bg-primary">Jekyll</span>
-                    <span class="badge bg-secondary">HTML/CSS</span>
-                    <span class="badge bg-info text-dark">Liquid</span>
+        <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
+            <!-- Card Image -->
+            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
+                    🔬
                 </div>
-                <p class="card-text">
-                    A research-focused platform for a consortium developing sustainable cellulose fibers for reinforced 3D printed composites. The site clearly presents project inspiration, innovative electro-spinning methodologies, and potential impacts across automotive, aerospace, and biomedical industries. Structured content sections facilitate easy access to research updates, publications, and collaboration opportunities.
-                </p>
-                <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">Visit Site →</a>
+            </div>
+            <!-- Card Content -->
+            <div style="padding: 1.5rem;">
+                <h4 style="margin-top: 0; margin-bottom: 0.5rem;">
+                    <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">BioCel-3D</a>
+                </h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin-bottom: 1rem;">Research consortium for sustainable cellulose composites</p>
+                
+                <!-- Tech Badges -->
+                <div style="margin-bottom: 1rem;">
+                    <span style="display: inline-block; background: #0d6efd; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">Jekyll</span>
+                    <span style="display: inline-block; background: #6c757d; color: white; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-right: 0.25rem;">HTML/CSS</span>
+                    <span style="display: inline-block; background: #0dcaf0; color: black; padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0.75rem;">Liquid</span>
+                </div>
+                
+                <p style="font-size: 0.85rem; line-height: 1.5;">Research platform showcasing sustainable cellulose fiber development for 3D printed composites. Features project updates, publications, and collaboration opportunities.</p>
+                
+                <div style="margin-top: 1rem;">
+                    <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary" style="margin-right: 0.5rem;">Visit Site →</a>
+                </div>
             </div>
         </div>
     </div>
@@ -76,14 +112,34 @@ I enjoy building clean, functional websites that effectively communicate informa
 
 ---
 
-## Live Previews
+## Live Website Previews
 
-<div class="mt-4">
-    <h5>Warriors Cricket Club</h5>
-    <iframe src="https://warriorscricket.eu/" width="100%" height="500px" style="border:1px solid #ddd; border-radius: 8px;"></iframe>
+{% details **Warriors Cricket Club** - Click to view live preview %}
+
+<div class="mt-3 mb-4">
+<iframe src="https://warriorscricket.eu/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
 </div>
 
-<div class="mt-5">
-    <h5>Project t-3d</h5>
-    <iframe src="https://t-3d.me/" width="100%" height="500px" style="border:1px solid #ddd; border-radius: 8px;"></iframe>
+A clean, community-focused platform bringing together match fixtures, team updates, player profiles, and sponsorship details. The site offers an engaging experience for cricket enthusiasts while reflecting the club's spirit.
+
+{% enddetails %}
+
+{% details **Project t-3d** - Click to view live preview %}
+
+<div class="mt-3 mb-4">
+<iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
 </div>
+
+A portfolio site documenting the 3D printing journey. The site provides detailed insights into project evolution, design philosophy, and milestones achieved, with optimized performance through Astro's static generation.
+
+{% enddetails %}
+
+{% details **BioCel-3D** - Click to view live preview %}
+
+<div class="mt-3 mb-4">
+<iframe src="https://www.biocel3d.eu/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
+</div>
+
+A research platform highlighting pioneering work in sustainable cellulose fibers for reinforced 3D printed composites. Presents inspiration, methodologies, and potential impacts across multiple industries.
+
+{% enddetails %}
