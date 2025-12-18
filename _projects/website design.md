@@ -9,12 +9,25 @@ related_publications: false #true
 ---
 
 
-I enjoy creating clean, functional websites that effectively communicate information while offering a smooth user experience. Explore the dedicated subpages below for the full write-ups and live previews of each build.
+I enjoy creating clean, functional websites that effectively communicate information while offering a smooth user experience. Below are some examples of websites I have designed and developed:
+
+### [Warriors Cricket Club](https://warriorscricket.eu/)
+
+The Warriors Cricket Club website is a clean, community-focused platform that brings together match fixtures, team updates, player profiles, and sponsorship details. Designed with intuitive navigation and a modern, responsive layout, the site offers an engaging experience for cricket enthusiasts while effectively reflecting the club's vibrant spirit and dedication to the game.
+
+<iframe src="https://warriorscricket.eu/" width="100%" height="500px" style="border:none;"></iframe>
+
+---
+### [Project t-3d](https://t-3d.me/)
+
+I have converted my 3D printing hobby into a project called t-3d. This clean and intuitive website created in Astro captures the idea and shows the progress of my journey from hobbyist to project creator. The site provides detailed insights into the project's evolution, design philosophy, and the various milestones achieved along the way.
+
+<iframe src="https://t-3d.me/" width="100%" height="500px" style="border:none;"></iframe>
 
 ---
 
-### Web design subprojects
+### [BioCel-3D](https://www.biocel3d.eu/)
 
-- [Warriors Cricket Club](/projects/website-design/warriors-cricket-club/): Community-first club site with fixtures, results, squads, and sponsor highlights.
-- [Project t-3d](/projects/website-design/project-t-3d/): Astro-powered storytelling for my 3D printing journey, milestones, and design philosophy.
-- [BioCel-3D](/projects/website-design/biocel-3d/): Research consortium site showcasing sustainable cellulose fiber development and collaboration opportunities.
+The BioCel-3D website is a sleek, research-focused platform that highlights a pioneering project dedicated to developing sustainable cellulose fibers for reinforced 3D printed composites. It clearly presents the project's inspiration, innovative methodologies in electro-spinning recycled cellulose, and its potential impact on industries such as automotive, aerospace, and biomedical. The site offers detailed insights into the consortium's work, research updates, publications, and opportunities for collaboration.
+
+<!-- <iframe src="https://www.biocel3d.eu/" width="100%" height="500px" style="border:none;"></iframe> -->
