@@ -28,24 +28,93 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Materials Engineer focused on polymers, with a specialization in fiber production via electrospinning. My Ph.D. in [electrospinning](https://orbilu.uni.lu/handle/10993/49301) (see detailed work on the [projects](https://shameekvats.github.io/projects/electrospinning/) page) underpins my expertise in polymer processing, nanofiber production, and advanced fabrication techniques. I also develop programming skills to complement my research and hobbies—using software and automation to accelerate experiments, analyze data, and build interactive projects. Working and collaborating across multiple countries has broadened my perspective for solving complex, interdisciplinary problems.
-
-Alongside my technical work, I’m a **certified Professional Scrum Master (PSM I)** with experience in **Agile methodology** of project management, applying collaborative, iterative workflows to both research and creative projects.
-
-My work blends technology and creativity by integrating:  
-- **Materials Engineering:** Specializing in polymer science with focus on electrospinning to produce functional nanofibers for sustainable applications. Research encompasses cellulose-based materials, bio-composites, and advanced fiber production techniques.
-- **Project Management:** Co-organizing and managing electronic music festivals for [Beyond Music ASBL](https://www.beyondmusic.lu/).  
-- **3D Design & Print:** Parametric design for 3D printed prototypes; documenting the progression from hobby to project at [Project t-3d](https://t-3d.me/).  
-- **Embedded & IoT Systems:** Experimenting with [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-16gb) and [Microbit](https://microbit.org/) to build interactive projects.  
-- **Data-Driven Automation:** Using Python for automation, analysis, and streamlining workflow.
-
-
-Curiosity, collaboration, and creativity turn challenges into opportunities. In my free time, I enjoy [cricket](https://www.espncricinfo.com/cricketers/shameek-vats-1230626) and [reading](https://www.goodreads.com/user/show/50895425-shameek-vats) to stay inspired and energized.
+**Materials Engineer & R&D Professional** specializing in polymer science, electrospinning, and advanced fabrication. **Certified Scrum Master (PSM I)** blending technical expertise with Agile project management to drive innovation in materials science, digital automation, and collaborative problem-solving.
 
 ---
 
-**My services are available for hire. If you're interested in collaborating on innovative projects in materials science, advanced manufacturing, or digital innovation, let's connect.**
+<div class="row mt-5 mb-5">
+    <!-- Materials Engineering Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <a href="{{ '/projects/electrospinning/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🧬</div>
+                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Materials</h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Polymer science, electrospinning & nanofiber production</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- Project Management Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <a href="{{ '/projects/project-management/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">📋</div>
+                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Projects</h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Agile methodology & event management</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- 3D Design Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <a href="{{ '/projects/3d-print/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">🖨️</div>
+                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">3D Print</h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Parametric design & functional prototypes</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- Embedded Systems Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <a href="{{ '/projects/chipset/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">💻</div>
+                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Embedded</h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Raspberry Pi & IoT experiments</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- Data Automation Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <a href="{{ '/projects/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">📊</div>
+                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Data</h4>
+                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Python automation & analysis</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- Interests Card -->
+    <div class="col-md-4 col-sm-6 mb-4">
+        <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">🏏</div>
+            <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Interests</h4>
+            <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">
+                <a href="https://www.espncricinfo.com/cricketers/shameek-vats-1230626" target="_blank" rel="noopener noreferrer">Cricket</a> & 
+                <a href="https://www.goodreads.com/user/show/50895425-shameek-vats" target="_blank" rel="noopener noreferrer">Reading</a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<style>
+.row > div > a > div:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+</style>
 
 ---
 
-*Note: If you're viewing this on a mobile device, tap the top right menu icon to access other pages.*
+<div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
+    <a href="mailto:{{ site.email }}" class="btn btn-primary btn-lg" style="padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 8px;">
+        Click to Collaborate
+    </a>
+    <p style="margin-top: 1rem; color: var(--global-text-color-light); font-size: 0.95rem;">
+        Interested in innovative projects in materials science, advanced manufacturing, or digital innovation? Let's connect.
+    </p>
+</div>
