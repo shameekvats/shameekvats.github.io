@@ -60,21 +60,6 @@ ninja.data = [{
           description: "with dynamic layouts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/website-design/";
-            },},{id: "projects-biocel-3d",
-          title: 'BioCel-3D',
-          description: "Research consortium site for sustainable cellulose fibers and reinforced 3D printing",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/website-design/biocel-3d/";
-            },},{id: "projects-project-t-3d",
-          title: 'Project t-3d',
-          description: "Astro-powered storytelling site for my 3D printing journey and builds",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/website-design/project-t-3d/";
-            },},{id: "projects-warriors-cricket-club",
-          title: 'Warriors Cricket Club',
-          description: "Community-first cricket club website with fixtures, squads, and sponsor visibility",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/website-design/warriors-cricket-club/";
             },},{
         id: 'social-email',
         title: 'email',
