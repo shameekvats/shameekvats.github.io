@@ -59,7 +59,7 @@ ninja.data = [{
           title: 'web development',
           description: "building functional websites with modern frameworks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/website-design/";
+              window.location.href = "/projects/web-development/";
             },},{
         id: 'social-email',
         title: 'email',
