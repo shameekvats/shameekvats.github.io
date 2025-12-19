@@ -28,9 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Materials Engineer specializing in polymer science and electrospinning for advanced nanofiber production. My expertise spans polymer processing, fabrication techniques, and programming for automation.
+Materials Research Engineer specializing in polymer science and electrospinning for advanced nanofiber production. My interests lie in polymer processing, electrospinning process development, and programming to streamline and automate fabrication.
 
-Beyond research, I design 3D printed prototypes, tinker with Raspberry Pi and embedded systems, develop websites, and apply collaborative workflows as a **Certified Scrum Master (PSM I)** across interdisciplinary projects.
+In my spare time, I explore maker projects through 3D modeling, 3D printing, electronics, and coding, often using Raspberry Pi and embedded systems, alongside web development. As a Professional Scrum Master (PSM I), I foster structured, collaborative workflows across diverse technical teams.
+
 
 <div style="clear: both;"></div>
 
