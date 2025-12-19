@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "Insights on engineering, automation, and experiences from lab to life",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-short-cv",
           title: "short cv",
           description: "",
@@ -45,11 +52,6 @@ ninja.data = [{
           description: "nanofibers from polymer solutions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electrospinning/";
-            },},{id: "projects-industrial-robotics",
-          title: 'industrial robotics',
-          description: "early steps in automation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/industrial-robotics/";
             },},{id: "projects-project-management",
           title: 'project management',
           description: "event organization &amp; management",
