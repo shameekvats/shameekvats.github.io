@@ -17,7 +17,7 @@ I enjoy building clean, functional websites that effectively communicate informa
     <div class="col-md-4 mb-4">
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
-            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); display: flex; align-items: center; justify-content: center;">
+            <div style="width: 100%; height: 200px; overflow: hidden; background: var(--global-bg-color); display: flex; align-items: center; justify-content: center;">
                 <img src="{{ '/assets/img/web_dev_logos/WarriorsCC_Logo.png' | relative_url }}" alt="Warriors Cricket Club Logo" style="max-width: 80%; max-height: 80%; object-fit: contain;">
             </div>
             <!-- Card Content -->
@@ -47,7 +47,7 @@ I enjoy building clean, functional websites that effectively communicate informa
     <div class="col-md-4 mb-4">
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
-            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center;">
+            <div style="width: 100%; height: 200px; overflow: hidden; background: var(--global-bg-color); display: flex; align-items: center; justify-content: center;">
                 <img src="{{ '/assets/img/web_dev_logos/t-3d_logo.png' | relative_url }}" alt="Project t-3d Logo" style="max-width: 80%; max-height: 80%; object-fit: contain;">
             </div>
             <!-- Card Content -->
@@ -77,7 +77,7 @@ I enjoy building clean, functional websites that effectively communicate informa
     <div class="col-md-4 mb-4">
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
-            <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); display: flex; align-items: center; justify-content: center;">
+            <div style="width: 100%; height: 200px; overflow: hidden; background: var(--global-bg-color); display: flex; align-items: center; justify-content: center;">
                 <img src="{{ '/assets/img/web_dev_logos/LogoBioCel3D.png' | relative_url }}" alt="BioCel-3D Logo" style="max-width: 80%; max-height: 80%; object-fit: contain;">
             </div>
             <!-- Card Content -->
