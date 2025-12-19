@@ -5,20 +5,12 @@ permalink: /blog/
 description: Insights on engineering, automation, and experiences from lab to life
 nav: true
 nav_order: 3
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
 ---
 
 <div class="post">
 
-  {% if page.pagination_info.curr_page == 1 %}
   <ul class="post-list">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
       <li>
         <h3>
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -30,11 +22,15 @@ pagination:
           {% endif %}
         </p>
         <p>{{ post.description }}</p>
+        {% if post.tags %}
+          <div class="post-tags">
+            {% for tag in post.tags %}
+              <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}" class="badge badge-primary">{{ tag }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
-
-  {% include pagination.liquid %}
-  {% endif %}
 
 </div>
