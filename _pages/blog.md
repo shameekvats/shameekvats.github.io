@@ -9,6 +9,10 @@ nav_order: 3
 
 <div class="post">
 
+  {% if site.posts.size == 0 %}
+    <p style="padding: 2rem; text-align: center; color: var(--global-text-color-light);">No posts yet. Check back soon!</p>
+  {% endif %}
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
