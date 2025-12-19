@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "projects-3d-print",
+        },{id: "post-early-steps-in-industrial-robotics-and-automation",
+      
+        title: "Early Steps in Industrial Robotics and Automation",
+      
+      description: "Setting up a simulated production line with Python and Dobot Magician",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/industrial-robotics-automation/";
+        
+      },
+    },{id: "projects-3d-print",
           title: '3d print',
           description: "designing &amp; printing funtional parts",
           section: "Projects",handler: () => {
