@@ -18,9 +18,6 @@ I enjoy building clean, functional websites that effectively communicate informa
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
             <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
-                    🏏
-                </div>
             </div>
             <!-- Card Content -->
             <div style="padding: 1.5rem;">
@@ -50,9 +47,6 @@ I enjoy building clean, functional websites that effectively communicate informa
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
             <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
-                    🖨️
-                </div>
             </div>
             <!-- Card Content -->
             <div style="padding: 1.5rem;">
@@ -82,9 +76,6 @@ I enjoy building clean, functional websites that effectively communicate informa
         <div style="border: 2px solid var(--global-divider-color); border-radius: 10px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); height: 100%;">
             <!-- Card Image -->
             <div style="width: 100%; height: 200px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: white; font-size: 3rem;">
-                    🔬
-                </div>
             </div>
             <!-- Card Content -->
             <div style="padding: 1.5rem;">
@@ -109,37 +100,3 @@ I enjoy building clean, functional websites that effectively communicate informa
         </div>
     </div>
 </div>
-
----
-
-## Live Website Previews
-
-{% details **Warriors Cricket Club** - Click to view live preview %}
-
-<div class="mt-3 mb-4">
-<iframe src="https://warriorscricket.eu/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
-</div>
-
-A clean, community-focused platform bringing together match fixtures, team updates, player profiles, and sponsorship details. The site offers an engaging experience for cricket enthusiasts while reflecting the club's spirit.
-
-{% enddetails %}
-
-{% details **Project t-3d** - Click to view live preview %}
-
-<div class="mt-3 mb-4">
-<iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
-</div>
-
-A portfolio site documenting the 3D printing journey. The site provides detailed insights into project evolution, design philosophy, and milestones achieved, with optimized performance through Astro's static generation.
-
-{% enddetails %}
-
-{% details **BioCel-3D** - Click to view live preview %}
-
-<div class="mt-3 mb-4">
-<iframe src="https://www.biocel3d.eu/" width="100%" height="600" frameborder="0" style="border: 2px solid var(--global-divider-color); border-radius: 8px;"></iframe>
-</div>
-
-A research platform highlighting pioneering work in sustainable cellulose fibers for reinforced 3D printed composites. Presents inspiration, methodologies, and potential impacts across multiple industries.
-
-{% enddetails %}

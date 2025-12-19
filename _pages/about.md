@@ -32,72 +32,50 @@ latest_posts:
 
 ---
 
-<div class="row mt-5 mb-5">
+<div class="row mt-5 mb-5 justify-content-center">
     <!-- Materials Engineering Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
+    <div class="col-lg-4 col-md-6 mb-4">
         <a href="{{ '/projects/electrospinning/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="font-size: 3rem; margin-bottom: 1rem;">🧬</div>
-                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Materials</h4>
-                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Polymer science, electrospinning & nanofiber production</p>
-            </div>
-        </a>
-    </div>
-
-    <!-- Project Management Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
-        <a href="{{ '/projects/project-management/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="font-size: 3rem; margin-bottom: 1rem;">📋</div>
-                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Projects</h4>
-                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Agile methodology & event management</p>
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    {% include figure.liquid loading="eager" path="assets/img/project_headers/Electrospinning.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Electrospinning materials research" %}
+                </div>
+                <div style="padding: 1.5rem; text-align: center;">
+                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Materials Engineering</h4>
+                    <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Polymer science, electrospinning & nanofiber production</p>
+                </div>
             </div>
         </a>
     </div>
 
     <!-- 3D Design Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
+    <div class="col-lg-4 col-md-6 mb-4">
         <a href="{{ '/projects/3d-print/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="font-size: 3rem; margin-bottom: 1rem;">🖨️</div>
-                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">3D Print</h4>
-                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Parametric design & functional prototypes</p>
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                    {% include figure.liquid loading="eager" path="assets/img/project_headers/3dprint.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="3D printing and design" %}
+                </div>
+                <div style="padding: 1.5rem; text-align: center;">
+                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">3D Design & Print</h4>
+                    <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Parametric design & functional prototypes</p>
+                </div>
             </div>
         </a>
     </div>
 
     <!-- Embedded Systems Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
+    <div class="col-lg-4 col-md-6 mb-4">
         <a href="{{ '/projects/chipset/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="font-size: 3rem; margin-bottom: 1rem;">💻</div>
-                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Embedded</h4>
-                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Raspberry Pi & IoT experiments</p>
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                    {% include figure.liquid loading="eager" path="assets/img/project_headers/Chipset.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Embedded systems and IoT" %}
+                </div>
+                <div style="padding: 1.5rem; text-align: center;">
+                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Embedded Systems</h4>
+                    <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Raspberry Pi & IoT experiments</p>
+                </div>
             </div>
         </a>
-    </div>
-
-    <!-- Data Automation Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
-        <a href="{{ '/projects/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="font-size: 3rem; margin-bottom: 1rem;">📊</div>
-                <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Data</h4>
-                <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Python automation & analysis</p>
-            </div>
-        </a>
-    </div>
-
-    <!-- Interests Card -->
-    <div class="col-md-4 col-sm-6 mb-4">
-        <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; padding: 2rem; text-align: center; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-            <div style="font-size: 3rem; margin-bottom: 1rem;">🏏</div>
-            <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Interests</h4>
-            <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">
-                <a href="https://www.espncricinfo.com/cricketers/shameek-vats-1230626" target="_blank" rel="noopener noreferrer">Cricket</a> & 
-                <a href="https://www.goodreads.com/user/show/50895425-shameek-vats" target="_blank" rel="noopener noreferrer">Reading</a>
-            </p>
-        </div>
     </div>
 </div>
 
@@ -111,7 +89,7 @@ latest_posts:
 ---
 
 <div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
-    <a href="mailto:{{ site.email }}" class="btn btn-primary btn-lg" style="padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 8px;">
+    <a href="mailto:shameekvats@proton.me" class="btn btn-primary btn-lg" style="padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 8px;">
         Click to Collaborate
     </a>
     <p style="margin-top: 1rem; color: var(--global-text-color-light); font-size: 0.95rem;">
