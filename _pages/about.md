@@ -28,7 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Materials Engineer & R&D Professional** specializing in polymer science, electrospinning, and advanced fabrication. **Certified Scrum Master (PSM I)** blending technical expertise with Agile project management to drive innovation in materials science, digital automation, and collaborative problem-solving.
+Materials Engineer specializing in polymer science and electrospinning for advanced nanofiber production. My expertise spans polymer processing, fabrication techniques, and programming for automation.
+
+Beyond research, I design 3D printed prototypes, tinker with Raspberry Pi and embedded systems, and apply collaborative workflows as a **Certified Scrum Master (PSM I)** across interdisciplinary projects.
 
 <div style="clear: both;"></div>
 
