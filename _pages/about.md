@@ -92,12 +92,3 @@ In my spare time, I explore maker projects through 3D modeling, 3D printing, ele
 </style>
 
 ---
-
-<div style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
-    <a href="mailto:shameekvats@proton.me" class="btn btn-primary btn-lg" style="padding: 0.75rem 2rem; font-size: 1.1rem; border-radius: 8px;">
-        Click to Collaborate
-    </a>
-    <p style="margin-top: 1rem; color: var(--global-text-color-light); font-size: 0.95rem;">
-        Interested in innovative projects in materials science, advanced manufacturing, or digital innovation? Let's connect.
-    </p>
-</div>
