@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website showcasing innovative projects to bring ideas to life.
 footer_text: > # the text here would show at the bottom of the page.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚀 # ⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon_io/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://shameekvats.github.io # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
