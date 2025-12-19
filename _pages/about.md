@@ -40,7 +40,7 @@ latest_posts:
         <a href="{{ '/projects/electrospinning/' | relative_url }}" style="text-decoration: none; color: inherit;">
             <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
                 <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-                    {% include figure.liquid loading="eager" path="assets/img/project_headers/Electrospinning.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Electrospinning materials research" %}
+                    {% include figure.liquid loading="eager" path="assets/img/project_headers/espin.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Electrospinning materials research" %}
                 </div>
                 <div style="padding: 1.5rem; text-align: center;">
                     <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Materials Engineering</h4>
@@ -52,7 +52,7 @@ latest_posts:
 
     <!-- 3D Design Card -->
     <div class="col-lg-4 col-md-6 mb-4">
-        <a href="{{ '/projects/3d-print/' | relative_url }}" style="text-decoration: none; color: inherit;">
+        <a href="{{ '/projects/3dprint/' | relative_url }}" style="text-decoration: none; color: inherit;">
             <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
                 <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
                     {% include figure.liquid loading="eager" path="assets/img/project_headers/3dprint.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="3D printing and design" %}
@@ -70,7 +70,7 @@ latest_posts:
         <a href="{{ '/projects/chipset/' | relative_url }}" style="text-decoration: none; color: inherit;">
             <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
                 <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-                    {% include figure.liquid loading="eager" path="assets/img/project_headers/Chipset.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Embedded systems and IoT" %}
+                    {% include figure.liquid loading="eager" path="assets/img/project_headers/chipset.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Embedded systems and IoT" %}
                 </div>
                 <div style="padding: 1.5rem; text-align: center;">
                     <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Embedded Systems</h4>
