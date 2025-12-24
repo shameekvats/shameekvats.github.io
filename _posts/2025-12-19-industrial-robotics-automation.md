@@ -3,7 +3,7 @@ layout: post
 title: "Early Steps in Industrial Robotics and Automation"
 date: 2025-12-18
 description: Setting up a simulated production line with Python and Dobot Magician
-tags: robotics automation python tutorial
+tags: robotics automation python 
 categories: engineering
 featured: true
 ---
