@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-early-steps-in-industrial-robotics-and-automation",
+        },{id: "post-building-low-key-an-event-platform-with-payment-gateway",
+      
+        title: "Building Low Key: An Event Platform with Payment Gateway",
+      
+      description: "Creating a ticket sales platform for electronic music events with integrated payment processing",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/building-lowkey-event-platform/";
+        
+      },
+    },{id: "post-early-steps-in-industrial-robotics-and-automation",
       
         title: "Early Steps in Industrial Robotics and Automation",
       
