@@ -2,8 +2,9 @@
 layout: post
 title: "Building Low Key: An Event Platform with Payment Gateway"
 date: 2025-12-24
+thumbnail: assets/img/web_dev_logos/lowkey_logo.png
 description: Creating a ticket sales platform for electronic music events with integrated payment processing
-tags: web-development vercel stripe event-management payment-gateway
+tags: web-development event-management payment-gateway
 categories: web-development
 featured: true
 ---
