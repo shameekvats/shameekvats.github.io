@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-building-low-key-an-event-platform-with-payment-gateway",
+        },{id: "post-breathing-new-life-into-a-surface-go-3-with-ubuntu",
+      
+        title: "Breathing New Life into a Surface Go 3 with Ubuntu",
+      
+      description: "A comprehensive guide to installing Ubuntu on a Microsoft Surface Go 3 tablet",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ubuntu-surface-go-3/";
+        
+      },
+    },{id: "post-building-low-key-an-event-platform-with-payment-gateway",
       
         title: "Building Low Key: An Event Platform with Payment Gateway",
       
