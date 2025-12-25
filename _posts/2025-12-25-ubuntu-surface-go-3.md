@@ -13,7 +13,7 @@ The Microsoft Surface Go 3 is an interesting piece of hardware—compact, portab
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/blog/SurfaceUbuntu.jpg" 
+        {% include figure.liquid path="/assets/img/blog/SurfaceUbuntu.jpg" 
            title="Ubuntu running on Surface Go 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -152,20 +152,19 @@ At this point, test the basic hardware:
 
 ## Step 5: Installing the Linux Surface Kernel
 
-The standard Ubuntu kernel provides basic Surface support, but to unlock full functionality—especially for cameras, improved touch support, and better power management—you'll want to install the specialized [Linux Surface kernel](https://github.com/linux-surface/linux-surface).
+The standard Ubuntu kernel provides basic Surface support, but to unlock full functionality—especially for improved touch support, stylus input, and better power management—you'll want to install the specialized [Linux Surface kernel](https://github.com/linux-surface/linux-surface).
 
 ### What is the Linux Surface Kernel?
 
 The linux-surface project is a community effort to provide enhanced Linux support for Microsoft Surface devices. It includes:
 - Optimized drivers for Surface-specific hardware
-- Camera support
 - Improved touch and stylus input
 - Better battery management
 - Thermal management improvements
 
 ### Installation Steps
 
-The installation process varies slightly depending on your Ubuntu version, but here's the general approach for Debian-based systems (including Ubuntu):
+Follow the installation instructions from the [official linux-surface installation guide for Debian/Ubuntu](https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup#debian--ubuntu):
 
 ```bash
 # Add the repository key
@@ -182,189 +181,58 @@ sudo apt update
 # Install the Surface kernel and related packages
 sudo apt install linux-image-surface linux-headers-surface iptsd libwacom-surface
 
-# Install Surface firmware (important for cameras)
-sudo apt install linux-firmware-surface
-```
-
-After installation, reboot your system:
-
-```bash
+# Reboot to use the new kernel
 sudo reboot
 ```
 
-When your system restarts, it should automatically boot into the new Surface-optimized kernel.
-
-### Verifying the Installation
-
-After rebooting, verify you're running the Surface kernel:
+After rebooting, you can verify you're running the Surface kernel:
 
 ```bash
 uname -r
 ```
 
-You should see output containing "surface" in the kernel name, something like:
-```
-6.x.x-surface
-```
+You should see output containing "surface" in the kernel name, such as `6.x.x-surface`.
 
-### Camera Support
-
-To get the cameras working, you'll need to install the camera drivers and ensure your user has the proper permissions:
-
-```bash
-# Install camera support
-sudo apt install linux-surface-ipu3-firmware
-
-# Add your user to the video group for camera access
-sudo usermod -a -G video $USER
-
-# Log out and back in for the group change to take effect
-```
-
-To test the cameras, you can use the `cam` utility:
-
-```bash
-# Install testing utilities
-sudo apt install libcamera-tools
-
-# Test with cam
-cam --list-cameras
-```
-
-For a graphical interface, you can use Cheese or qcam:
-
-```bash
-# Install and run Cheese
-sudo apt install cheese
-cheese
-```
-
-<div class="row">
-    <div class="col-sm-12 mt-3">
-        <div class="alert alert-warning" role="alert">
-            <strong>Camera Quality Note:</strong> While the cameras do work with the linux-surface kernel, the image quality may not match Windows performance. This is a known limitation of the current drivers.
-        </div>
-    </div>
-</div>
-
-### Understanding MOK (Machine Owner Key)
-
-During the linux-surface kernel installation, you may encounter a blue screen asking you to enroll a MOK (Machine Owner Key). This is part of the Secure Boot process:
-
-1. When prompted, **select "Enroll MOK"** (not the other options)
-2. Follow the on-screen prompts
-3. You may be asked to create a password—remember this password
-4. Confirm enrollment
-5. The system will reboot automatically
-
-If you miss this screen or need to retry:
-
-```bash
-# Remove the MOK package
-sudo apt remove linux-surface-secureboot-mok
-
-# Reboot
-sudo reboot
-
-# Reinstall it
-sudo apt install linux-surface-secureboot-mok
-
-# Reboot again to see the MOK enrollment screen
-sudo reboot
-```
-
-For more detailed information, check out the [official linux-surface installation guide](https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup#debian--ubuntu).
+For more detailed information and troubleshooting, refer to the [complete installation guide](https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup#debian--ubuntu).
 
 ## Step 6: Optimizing Your Ubuntu Experience
 
-### Enable Virtual Keyboard
+To enhance your Ubuntu experience on the Surface Go 3, the linux-surface project provides additional configuration options and tweaks. These include:
 
-Since the Surface Go 3 is a tablet, having a reliable on-screen keyboard is essential. Ubuntu includes a basic virtual keyboard, but it's not always optimal. Here's how to improve it:
+- **Virtual keyboard improvements** for better tablet mode functionality
+- **Touch scrolling enhancements** for smoother navigation
+- **Power management optimizations** to extend battery life
+- **Thermal management configurations** to prevent overheating
+- **Application recommendations** specific to Surface devices
 
-```bash
-# Install GNOME Extension Manager
-sudo apt install gnome-shell-extension-manager
+For detailed optimization guides and configurations, visit the [linux-surface contrib directory](https://github.com/linux-surface/linux-surface/tree/master/contrib) which contains scripts, tweaks, and configuration examples to improve your Linux experience on Surface devices.
 
-# Launch the Extension Manager
-gnome-extensions-prefs
-```
-
-From the Extension Manager, you can install:
-- **Touch X**: Adds an icon to manually trigger the on-screen keyboard
-- **GJS OSK**: A more configurable replacement for the default keyboard
-
-### Improve Touch Scrolling
-
-Out of the box, two-finger scrolling might not work perfectly in all applications. While the fix varies by desktop environment, for GNOME (Ubuntu's default), touchpad settings can be adjusted in:
-
-**Settings → Mouse & Touchpad → Touchpad → Enable Natural Scrolling**
-
-### Install Essential Applications
-
-Here are some recommended applications to enhance your Ubuntu experience on the Surface Go 3:
-
-```bash
-# Web browser (if not using Firefox)
-sudo snap install chromium
-
-# Text editor for coding
-sudo snap install code --classic
-
-# Media player
-sudo snap install vlc
-
-# PDF reader (already installed, but ensure it's updated)
-sudo apt install evince
-```
-
-### Power Management
-
-To extend battery life, consider installing TLP, a power management tool:
-
-```bash
-sudo apt install tlp tlp-rdw
-sudo systemctl enable tlp
-sudo systemctl start tlp
-```
-
-TLP automatically optimizes various power settings without requiring configuration.
+You can customize these based on your specific preferences and use case.
 
 ## Troubleshooting Common Issues
 
-### Issue: Touch Screen Not Working During Installation
+If you encounter issues during or after installation, here are some common problems and general guidance:
 
-**Solution**: This is unusual as the touch screen should work from the first installation screen. Ensure you're using a recent Ubuntu ISO (22.04 LTS or newer).
+### Touch Screen Not Working During Installation
 
-### Issue: Wi-Fi Not Connecting
+This is unusual as the touch screen should work from the first installation screen. Ensure you're using a recent Ubuntu ISO (22.04 LTS or newer).
 
-**Solution**: 
-```bash
-# Check if the Wi-Fi adapter is detected
-lshw -C network
+### Wi-Fi Not Connecting
 
-# Restart Network Manager
-sudo systemctl restart NetworkManager
-```
+Check if your Wi-Fi adapter is detected and try restarting the Network Manager. If problems persist, search for your specific Wi-Fi chipset in the Ubuntu forums.
 
-### Issue: Cameras Not Recognized
+### Stylus Pen Not Working
 
-**Solution**: Ensure you've installed the linux-surface kernel and camera firmware as described in Step 5. Some applications may still not recognize the cameras due to driver limitations.
+After installing the linux-surface kernel, the Surface Pen should work automatically. If not, ensure the wacom support packages are installed.
 
-### Issue: Stylus Pen Not Working
+### System Not Booting to Ubuntu
 
-**Solution**: After installing the linux-surface kernel, the Surface Pen should work automatically. If not:
+You may need to adjust boot order in UEFI or check that Secure Boot is properly configured. Boot into UEFI (Volume Up + Power) and verify settings.
 
-```bash
-# Check if the pen is detected
-xinput list
-
-# Ensure wacom support is installed
-sudo apt install xserver-xorg-input-wacom libwacom-surface
-```
-
-### Issue: System Not Booting to Ubuntu
-
-**Solution**: You may need to adjust boot order in UEFI or check that Secure Boot is properly configured. Boot into UEFI (Volume Up + Power) and verify settings.
+For more detailed troubleshooting and device-specific issues, visit:
+- [Linux Surface Wiki](https://github.com/linux-surface/linux-surface/wiki)
+- [Linux Surface GitHub Issues](https://github.com/linux-surface/linux-surface/issues)
+- [Ubuntu Forums](https://ubuntuforums.org/)
 
 ## My Experience: Performance and Daily Use
 
@@ -376,12 +244,8 @@ After completing the installation and setup, the Surface Go 3 running Ubuntu fee
 - **Media consumption**: YouTube, streaming services all work perfectly
 - **Touch screen**: Responsive and accurate
 - **Battery life**: Comparable to or better than Windows 11
-
-### Limitations:
-- **Camera quality**: Works but not as good as Windows
-- **Stylus pen**: Basic functionality works, but advanced features may be limited
-- **Some apps**: A few Windows-only applications obviously won't work
-- **Occasional bugs**: Minor UI glitches in some GNOME applications
+- **System responsiveness**: Noticeably faster than Windows 11
+- **Multitasking**: Handles multiple applications smoothly
 
 For my use case—casual browsing, reading documentation, light coding, and media consumption—the Surface Go 3 running Ubuntu is now a perfectly capable device that I enjoy using.
 
