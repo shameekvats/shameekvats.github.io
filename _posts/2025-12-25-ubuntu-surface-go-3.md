@@ -13,7 +13,7 @@ The Microsoft Surface Go 3 is an interesting piece of hardware—compact, portab
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="/assets/img/blog/SurfaceUbuntu.jpg" 
+        {% include figure.liquid path="assets/img/blog/SurfaceUbuntu.jpg" 
            title="Ubuntu running on Surface Go 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
