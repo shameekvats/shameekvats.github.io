@@ -4,7 +4,7 @@ title: "Breathing New Life into a Surface Go 3 with Ubuntu"
 date: 2025-12-25
 thumbnail: assets/img/blog/surface-ubuntu.jpg
 description: A comprehensive guide to installing Ubuntu on a Microsoft Surface Go 3 tablet
-tags: linux ubuntu surface hardware
+tags: linux surface hardware
 categories: linux
 featured: true
 ---
