@@ -2,7 +2,7 @@
 layout: post
 title: "Breathing New Life into a Surface Go 3 with Ubuntu"
 date: 2025-12-25
-thumbnail: assets/img/blog/surface-ubuntu.jpg
+thumbnail: assets/img/blog/surface-ubuntu2.jpg
 description: A comprehensive guide to installing Ubuntu on a Microsoft Surface Go 3 tablet
 tags: linux surface hardware
 categories: linux
@@ -13,12 +13,12 @@ The Microsoft Surface Go 3 is an interesting piece of hardware—compact, portab
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/blog/surface-ubuntu.jpg" 
-           title="Ubuntu running on Surface Go 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/blog/surface-ubuntu2.jpg" 
+           title="Ubuntu Desktop on Surface Go 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Ubuntu brings new life to the Surface Go 3
+    Ubuntu Desktop running smoothly on the Surface Go 3
 </div>
 
 ## Why Ubuntu on Surface Go 3?
@@ -107,6 +107,16 @@ With your bootable USB drive ready and the Surface configured to boot from USB, 
 3. **Wait patiently**—the Surface Go 3 isn't the fastest device, so the initial boot from USB can take several minutes
 4. Eventually, you'll see the Ubuntu boot menu with options to "Try Ubuntu" or "Install Ubuntu"
 5. **Select "Try Ubuntu"** to test everything first, or go straight to installation
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/blog/surface-ubuntu.jpg" 
+           title="Surface Go 3 booting Ubuntu from USB" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Surface Go 3 installing and booting Ubuntu from USB
+</div>
 
 ### Installation Process
 
@@ -266,6 +276,8 @@ Throughout this installation journey, I found these resources invaluable:
 ### Helpful Blog Posts
 - [The Privacy Dad's Guide to Ubuntu on Surface Go 3](https://theprivacydad.com/ubuntu-on-a-windows-surface-go-3/)
 - [Rockford Lhotka's Experience Running Linux on Surface Go](https://blog.lhotka.net/2025/04/22/Running-Linux-on-My-Surface-Go)
+- [How to Convert the Microsoft Surface Go 2 into the Perfect Linux Tablet](https://julianschweigert.medium.com/how-to-convert-the-microsoft-surface-go-2-into-the-perfect-linux-tablet-f9527b8f3499) - Comprehensive guide with UI customization and development environment setup
+- [Turning This Tiny Laptop into a Linux Work Machine](https://www.zdnet.com/article/x-plus-storm-10-review/) - ZDNET review highlighting Linux performance on compact devices
 
 ### Video Tutorials
 - [How to Access Surface UEFI](https://www.youtube.com/watch?v=6_EHEmz_j4o)
