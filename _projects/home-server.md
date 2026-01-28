@@ -88,22 +88,24 @@ The reference hardware for this project is an HP Mini netbook—a device that wo
 
 **Compatibility:** This setup works with any 32-bit (i686/i386) or 64-bit laptop. For 64-bit hardware, simply use the amd64 Debian ISO instead. The project has been specifically designed for older 32-bit hardware that modern distributions no longer support.
 
+**Custom Enhancement:** A 3D printed stand was designed and fabricated to optimize airflow and provide a stable vertical orientation for the netbook, combining practical engineering with aesthetic design.
+
 ---
 
 ## Gallery
 
 <div class="row mt-4">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_home_server/hp-mini-1.jpg" title="HP Mini Server Hardware" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">The HP Mini netbook repurposed as a home server</div>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_home_server/hp-mini-headless.jpg" title="Headless Operation" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">Running headless with lid closed—no monitor needed</div>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/project_home_server/filebrowser-web.jpg" title="FileBrowser Interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/project_home_server/hp-mini-1.jpg" title="FileBrowser Interface" class="img-fluid rounded z-depth-1" %}
         <div class="caption">FileBrowser web interface for easy file management</div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_home_server/hp-mini-headless.jpg" title="HP Mini Server Hardware" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">The HP Mini netbook repurposed as a home server with custom 3D printed stand</div>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_home_server/filebrowser-web.jpg" title="Headless Operation" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Running headless with lid closed—no monitor needed</div>
     </div>
 </div>
 
