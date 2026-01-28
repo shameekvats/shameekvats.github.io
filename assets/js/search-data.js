@@ -85,6 +85,11 @@ ninja.data = [{
           description: "nanofibers from polymer solutions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electrospinning/";
+            },},{id: "projects-home-server",
+          title: 'home server',
+          description: "converting an old HP Mini into a headless file server",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/home-server/";
             },},{id: "projects-project-management",
           title: 'project management',
           description: "event organization &amp; management",
