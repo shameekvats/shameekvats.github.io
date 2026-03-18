@@ -56,6 +56,22 @@
       "endDate": "2021-10-01",
       "summary": "Along with captaining the cricket team, I am responsible for designing and maintaining the club's website, creating an online experience as seamless as a well-coordinated cricket strategy.",
       "highlights": ["Website Design", "Strategy, Planning & Execution","Communication & Outreach", "Team Captain"]
+    },
+    {
+      "organization": "Tattva-3D",
+      "location": "Luxembourg",
+      "position": "Independent 3D Product Design & Fabrication Project",
+      "url": "https://t-3d.me/",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "summary": "Self-directed 3D design and fabrication initiative combining digital product design, additive manufacturing, and customer-facing delivery.",
+      "highlights": [
+        "Designed and fabricated custom products using parametric and personalized modeling workflows.",
+        "Executed print engineering tasks including slicer setup, material selection, calibration, and iterative prototyping.",
+        "Produced both aesthetic and functional outputs, including branding items and electronics-integrated concepts (e.g., lightboxes/NFC keychains).",
+        "Built and maintained digital service infrastructure (website, portfolio pages, contact funnel, and content updates).",
+        "Led outreach, customer requirement gathering, and workshop facilitation for 3D printing awareness and adoption."
+      ]
     }
   ],
   "education": [
