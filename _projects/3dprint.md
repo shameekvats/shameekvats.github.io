@@ -8,52 +8,19 @@ category: portfolio #work
 related_publications: false #true
 ---
 
-## From Maker Roots to Engineering-Driven Fabrication
+## Additive Manufacturing, Prototyping, and Design
 
-What started as a curiosity about 3D printing has evolved into a focused practice in design, engineering, and additive manufacturing. Over the years, I've progressed from simple prints to complex, multi-material builds that combine my materials science background with advanced fabrication methods.
+This page presents selected work in additive manufacturing, prototyping, and fabrication. The focus is on functional objects, electronics-integrated builds, art pieces, and lighting projects, with design files and build notes added where available.
 
-My experience spans from baseline FDM workflows to advanced techniques including multi-color builds, parametric design, electronics integration, and functional prototyping. In parallel, I facilitate practical workshops to teach design-to-fabrication workflows. Each project has expanded what's possible through additive manufacturing.
-
----
-
-## Project t-3d: The Complete Journey
-
-I've documented my additive manufacturing journey in **Project t-3d** - a comprehensive platform showcasing progression from early experimentation to advanced fabrication. This website captures not just final products, but engineering decisions, prototyping iterations, and functional outcomes.
-
-<div class="mt-4 mb-4">
-<iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
-</div>
+My work spans concept development, CAD, slicing, print optimization, finishing, and workshop facilitation. I use additive manufacturing as a design and engineering tool, not just as a print process.
 
 ---
 
-## Early Projects: Building the Foundation
+## Electronics & Functional Systems
 
-These projects represent the early stages of my 3D printing journey, where I focused on mastering fundamental techniques and exploring creative possibilities. Each project taught valuable lessons that contributed to my current expertise.
+Functional builds that combine fabrication, electronics, and iterative prototyping.
 
-### Artistic Explorations
-
-These colored lithophanes were 3D printed with intricate detail and precision. Framed in a light box, they transform everyday images into a captivating play of light and color.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane1.jpg" title="litho1" alt="3D printed colored lithophane portrait displaying detailed shading and depth through backlit LED frame" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane2.jpg" title="litho2" alt="Backlit lithophane print showing intricate gradations and contrast when illuminated from behind" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane3.jpg" title="litho3" alt="Colored lithophane with LED lighting revealing multi-layered depth and photographic detail" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Colored lithophanes printed and framed with LEDs.
-</div>
-
-
-### Functional Electronics Integration
-
-Moving beyond decorative prints, I challenged myself with functional electronics projects, combining 3D printing with hardware assembly and programming.
-
+### Featured Work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -67,13 +34,51 @@ Moving beyond decorative prints, I challenged myself with functional electronics
     </div>
 </div>
 <div class="caption">
-    A wireless mouse with a usb dongle.
+    Custom electronics-integrated work focused on functional prototyping and fabrication.
 </div>
 
-### Lighting Design & Ambiance
+### Downloads and Notes
 
-These projects explored the intersection of 3D printing and lighting design, creating functional art pieces that transform spaces.
+- STL files: _add links here_
+- Design files: _add links here_
+- Build notes: _add blog link here_
 
+---
+
+## Art & Sculptural Pieces
+
+Experimental and visual pieces that explore texture, light, and surface detail.
+
+### Featured Work
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane1.jpg" title="litho1" alt="3D printed colored lithophane portrait displaying detailed shading and depth through backlit LED frame" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane2.jpg" title="litho2" alt="Backlit lithophane print showing intricate gradations and contrast when illuminated from behind" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3d/lithophane3.jpg" title="litho3" alt="Colored lithophane with LED lighting revealing multi-layered depth and photographic detail" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Lithophanes and visual pieces that combine design, fabrication, and light.
+</div>
+
+### Downloads and Notes
+
+- STL files: _add links here_
+- Design files: _add links here_
+- Blog link: _add link here_
+
+---
+
+## Lighting & Functional Objects
+
+Objects that combine additive manufacturing with atmosphere, utility, and finish.
+
+### Featured Work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -87,28 +92,29 @@ These projects explored the intersection of 3D printing and lighting design, cre
     </div>
 </div>
 <div class="caption">
-    Caption (L) LED desklamp (M) Reading ghost tealight (R) Red bunny teallight.
+    Lighting pieces and small functional objects developed through design and fabrication.
 </div>
 
+### Downloads and Notes
 
+- STL files: _add links here_
+- Design files: _add links here_
+- Blog link: _add link here_
 
 ---
 
-## Design Evolution: From Concept to Creation
+## Design Approach
 
-The journey from idea to fabricated object requires mastery of parametric design software and precise dimensional planning. This section showcases how digital design skills evolved alongside additive manufacturing capabilities.
+Parametric modeling and dimensional planning guide the transition from idea to fabricated object.
 
-### Parametric Design Mastery
+### Current Capabilities
 
-Using advanced CAD software, I've developed the ability to create precise, customizable designs that can be easily modified and optimized for different applications. This parametric approach ensures consistency and allows for rapid iteration.
+- **Parametric Design**: customizable models for rapid iteration
+- **Tolerance Engineering**: precise fit and assembly
+- **Functional Prototyping**: testing form, fit, and use
+- **Fabrication Planning**: reducing waste while preserving strength
 
-**Current Capabilities:**
-- **Multi-material Design**: Creating parts optimized for different material properties
-- **Tolerance Engineering**: Designing for perfect fit and function
-- **Assembly Planning**: Creating multi-part designs with precise interfacing
-- **Optimization**: Reducing material usage while maintaining structural integrity
-
-### Featured Design Projects
+### Example Designs
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -122,21 +128,15 @@ Using advanced CAD software, I've developed the ability to create precise, custo
     </div>
 </div>
 <div class="caption">
-    (L) [Warriors Cricket Club](https://warriorscricket.eu/) logo placard (M) Lego block (R) A box with a lid.
+    (L) Warriors logo placard (M) LEGO-compatible block (R) fitted box with lid.
 </div>
 
 ---
 
-## Looking Forward: Advanced Fabrication & Prototyping
+## Tattva-3D
 
-This journey represents just the beginning. My current focus includes:
+My wider 3D fabrication and service work is documented on [Tattva-3D](https://t-3d.me/), including product examples, workshop activity, and client-facing project notes.
 
-- **Advanced Materials**: Exploring carbon fiber, metal-filled, and specialty filaments
-- **Multi-Process Manufacturing**: Integrating additive manufacturing with traditional fabrication
-- **Workshop Facilitation**: Expanding practical training on design, slicing, and fabrication workflows
-- **Commercial Applications**: Developing products for market-ready solutions
-- **Sustainability**: Implementing circular design principles and recycled materials
-
-The evolution from maker to engineering-focused practitioner has been driven by curiosity, systematic learning, and continuous experimentation. Each project builds upon previous knowledge, creating a comprehensive understanding of additive manufacturing that extends far beyond basic printing.
-
-**Visit [Project t-3d](https://t-3d.me/) to explore the complete journey, detailed project documentation, and ongoing innovations in additive manufacturing and design.**
+<div class="mt-4 mb-4">
+<iframe src="https://t-3d.me/" width="100%" height="520" frameborder="0" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
+</div>
