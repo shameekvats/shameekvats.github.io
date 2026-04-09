@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-breathing-new-life-into-a-surface-go-3-with-ubuntu",
+        },{id: "post-designing-a-wireless-charging-iphone-dock-for-standby-mode",
+      
+        title: "Designing a Wireless Charging iPhone Dock for StandBy Mode",
+      
+      description: "A functional additive manufacturing project combining CAD, prototyping, and daily-use product design",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/wireless-charging-iphone-dock/";
+        
+      },
+    },{id: "post-breathing-new-life-into-a-surface-go-3-with-ubuntu",
       
         title: "Breathing New Life into a Surface Go 3 with Ubuntu",
       
