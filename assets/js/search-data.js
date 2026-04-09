@@ -48,6 +48,17 @@ ninja.data = [{
           window.location.href = "/blog/2026/wireless-charging-iphone-dock/";
         
       },
+    },{id: "post-designing-mini-lamps-from-cad-concepts-to-functional-prints",
+      
+        title: "Designing Mini Lamps: From CAD Concepts to Functional Prints",
+      
+      description: "A compact lighting project combining additive manufacturing, prototyping, and creative functional design",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/mini-lamps-design-fabrication/";
+        
+      },
     },{id: "post-breathing-new-life-into-a-surface-go-3-with-ubuntu",
       
         title: "Breathing New Life into a Surface Go 3 with Ubuntu",
