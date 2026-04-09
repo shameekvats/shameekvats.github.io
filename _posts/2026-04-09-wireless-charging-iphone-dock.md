@@ -9,7 +9,7 @@ categories: engineering
 featured: true
 ---
 
-I wanted to build a functional desk object that I would use every day, not just a visual prototype. This project focuses on a wireless charging iPhone dock designed to support Apple's StandBy mode while keeping the setup compact, stable, and practical.
+I wanted to build a functional desk object that I would use every day, not just a visual prototype. This project focuses on a wireless charging iPhone dock designed to support Apple's Standby mode while keeping the setup compact, stable, and practical.
 
 The result is a 3D printed dock that combines charging support, viewing angle optimization, and built-in storage in a single piece.
 
@@ -20,7 +20,7 @@ The result is a 3D printed dock that combines charging support, viewing angle op
     </div>
 </div>
 <div class="caption">
-    Final dock in use: wireless charging with StandBy-friendly viewing angle and integrated storage
+    Final dock in use: wireless charging with Standby-friendly viewing angle and integrated storage
 </div>
 
 ## Project Goal
