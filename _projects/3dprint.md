@@ -1,24 +1,24 @@
 ---
 layout: page
-title: 3d print
-description: designing & printing funtional parts
+title: additive manufacturing
+description: designing and fabricating functional parts
 img: assets/img/project_headers/3dprint.jpg
 importance: 2
 category: portfolio #work
 related_publications: false #true
 ---
 
-## From Beginner to Advanced Creator
+## From Maker Roots to Advanced Fabrication
 
-What started as a curiosity about 3D printing has evolved into a comprehensive journey of design, engineering, and advanced manufacturing. Over the years, I've progressed from simple prints to complex, multi-material projects that combine my materials science background with cutting-edge 3D printing techniques.
+What started as a curiosity about 3D printing has evolved into a focused practice in design, engineering, and additive manufacturing. Over the years, I've progressed from simple prints to complex, multi-material builds that combine my materials science background with advanced fabrication methods.
 
-My experience spans from basic FDM printing to advanced techniques including multi-color printing, parametric design, and functional prototyping. Each project has been a learning opportunity, pushing the boundaries of what's possible with additive manufacturing.
+My experience spans from baseline FDM workflows to advanced techniques including multi-color builds, parametric design, electronics integration, and functional prototyping. Each project has expanded what's possible through additive manufacturing.
 
 ---
 
 ## Project t-3d: The Complete Journey
 
-I've documented my entire 3D printing evolution in **Project t-3d** - a comprehensive platform showcasing the progression from hobby enthusiast to advanced maker. This website captures not just the final products, but the learning process, challenges overcome, and innovations developed along the way.
+I've documented my additive manufacturing journey in **Project t-3d** - a comprehensive platform showcasing progression from early experimentation to advanced fabrication. This website captures not just the final products, but the process, challenges, and innovations developed along the way.
 
 <div class="mt-4 mb-4">
 <iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
