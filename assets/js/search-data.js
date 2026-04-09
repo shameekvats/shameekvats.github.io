@@ -70,9 +70,9 @@ ninja.data = [{
           window.location.href = "/blog/2025/industrial-robotics-automation/";
         
       },
-    },{id: "projects-3d-print",
-          title: '3d print',
-          description: "designing &amp; printing funtional parts",
+    },{id: "projects-additive-manufacturing",
+          title: 'additive manufacturing',
+          description: "designing and fabricating functional parts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3dprint/";
             },},{id: "projects-embedded-systems",
