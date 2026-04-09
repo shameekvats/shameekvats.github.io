@@ -61,7 +61,7 @@ Alongside materials R&D, I develop end-to-end additive manufacturing workflows f
                     {% include figure.liquid loading="eager" path="assets/img/project_headers/3dprint.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Additive manufacturing and product design" %}
                 </div>
                 <div style="padding: 1.5rem; text-align: center;">
-                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Additive Design & Fabrication</h4>
+                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Design & Fabrication</h4>
                     <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Parametric design, functional prototyping & additive manufacturing</p>
                 </div>
             </div>
