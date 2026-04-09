@@ -8,17 +8,17 @@ category: portfolio #work
 related_publications: false #true
 ---
 
-## From Maker Roots to Advanced Fabrication
+## From Maker Roots to Engineering-Driven Fabrication
 
 What started as a curiosity about 3D printing has evolved into a focused practice in design, engineering, and additive manufacturing. Over the years, I've progressed from simple prints to complex, multi-material builds that combine my materials science background with advanced fabrication methods.
 
-My experience spans from baseline FDM workflows to advanced techniques including multi-color builds, parametric design, electronics integration, and functional prototyping. Each project has expanded what's possible through additive manufacturing.
+My experience spans from baseline FDM workflows to advanced techniques including multi-color builds, parametric design, electronics integration, and functional prototyping. In parallel, I facilitate practical workshops to teach design-to-fabrication workflows. Each project has expanded what's possible through additive manufacturing.
 
 ---
 
 ## Project t-3d: The Complete Journey
 
-I've documented my additive manufacturing journey in **Project t-3d** - a comprehensive platform showcasing progression from early experimentation to advanced fabrication. This website captures not just the final products, but the process, challenges, and innovations developed along the way.
+I've documented my additive manufacturing journey in **Project t-3d** - a comprehensive platform showcasing progression from early experimentation to advanced fabrication. This website captures not just final products, but engineering decisions, prototyping iterations, and functional outcomes.
 
 <div class="mt-4 mb-4">
 <iframe src="https://t-3d.me/" width="100%" height="600" frameborder="0" allowfullscreen style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"></iframe>
@@ -96,7 +96,7 @@ These projects explored the intersection of 3D printing and lighting design, cre
 
 ## Design Evolution: From Concept to Creation
 
-The journey from idea to printed object requires mastery of parametric design software and precise dimensional planning. This section showcases how digital design skills evolved alongside printing capabilities.
+The journey from idea to fabricated object requires mastery of parametric design software and precise dimensional planning. This section showcases how digital design skills evolved alongside additive manufacturing capabilities.
 
 ### Parametric Design Mastery
 
@@ -127,15 +127,16 @@ Using advanced CAD software, I've developed the ability to create precise, custo
 
 ---
 
-## Looking Forward: Advanced Manufacturing
+## Looking Forward: Advanced Fabrication & Prototyping
 
 This journey represents just the beginning. My current focus includes:
 
 - **Advanced Materials**: Exploring carbon fiber, metal-filled, and specialty filaments
-- **Multi-Process Manufacturing**: Integrating 3D printing with traditional manufacturing
+- **Multi-Process Manufacturing**: Integrating additive manufacturing with traditional fabrication
+- **Workshop Facilitation**: Expanding practical training on design, slicing, and fabrication workflows
 - **Commercial Applications**: Developing products for market-ready solutions
 - **Sustainability**: Implementing circular design principles and recycled materials
 
-The evolution from hobbyist to advanced practitioner has been driven by curiosity, systematic learning, and continuous experimentation. Each project builds upon previous knowledge, creating a comprehensive understanding of additive manufacturing that extends far beyond basic printing.
+The evolution from maker to engineering-focused practitioner has been driven by curiosity, systematic learning, and continuous experimentation. Each project builds upon previous knowledge, creating a comprehensive understanding of additive manufacturing that extends far beyond basic printing.
 
-**Visit [Project t-3d](https://t-3d.me/) to explore the complete journey, detailed project documentation, and ongoing innovations in 3D printing and design.**
+**Visit [Project t-3d](https://t-3d.me/) to explore the complete journey, detailed project documentation, and ongoing innovations in additive manufacturing and design.**

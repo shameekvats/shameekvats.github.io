@@ -30,7 +30,7 @@ latest_posts:
 
 Materials Research Engineer specializing in polymer science and electrospinning for advanced nanofiber production. My work spans polymer processing, electrospinning process development, and programming to streamline and automate fabrication.
 
-Alongside materials R&D, I develop end-to-end 3D design and printing workflows for complex functional parts, electronics-integrated builds, and creative pieces. As a Professional Scrum Master (PSM I), I foster structured, collaborative workflows across diverse technical teams.
+Alongside materials R&D, I develop end-to-end additive manufacturing workflows for functional prototyping, precision fabrication, electronics-integrated builds, and creative pieces, and I also run practical 3D printing workshops. As a Professional Scrum Master (PSM I), I foster structured, collaborative workflows across diverse technical teams.
 
 
 <div style="clear: both;"></div>
