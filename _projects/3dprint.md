@@ -134,6 +134,21 @@ Concept-to-print lamp designs with integrated LED lighting.
     A CAD-to-print LED lamp developed as a functional lighting object.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/cad.png" title="led-table-lamp-cad" alt="CAD model of a tall ribbed cylindrical table lamp with wooden base and metal legs" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/led_lamp.PNG" title="led-table-lamp-lit" alt="3D printed ribbed table lamp illuminated with warm LED glow on a wooden surface" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/led_lamp2.PNG" title="led-table-lamp-variants" alt="Three 3D printed table lamp variants: white ribbed, diamond-textured, and blue ribbed" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Full-size ribbed table lamp: CAD model, lit final print, and design variants including white ribbed, diamond-textured, and blue ribbed.
+</div>
+
 ### Mini Lamps
 
 Smaller lamp concepts with multiple design variants, from CAD to finished print.
