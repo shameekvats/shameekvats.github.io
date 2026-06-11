@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-designing-a-wireless-charging-iphone-dock-for-standby-mode",
+        },{id: "post-designing-a-full-size-led-table-lamp-ribbed-shade-wooden-base-practical-glow",
+      
+        title: "Designing a Full-Size LED Table Lamp: Ribbed Shade, Wooden Base, Practical Glow",
+      
+      description: "A larger, practical lamp build combining a ribbed cylindrical shade, wooden base, and LED lighting into a refined everyday object",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/led-table-lamp-design-fabrication/";
+        
+      },
+    },{id: "post-designing-a-wireless-charging-iphone-dock-for-standby-mode",
       
         title: "Designing a Wireless Charging iPhone Dock for StandBy Mode",
       
