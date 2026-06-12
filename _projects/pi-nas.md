@@ -319,3 +319,39 @@ The OS SD card is the weakest link for long-term reliability. Docker's data root
 
 **Project Status:** ✅ Operational  
 **Last Updated:** June 2026
+
+---
+
+## References & Resources
+
+These resources were instrumental in planning and building this project:
+
+<div class="row mt-4 mb-2">
+    <div class="col-md-4 mb-3">
+        <a href="https://www.jeffgeerling.com/blog/2024/radxas-sata-hat-makes-compact-pi-5-nas/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 8px; padding: 1.25rem; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <p style="font-size: 0.75rem; color: var(--global-text-color-light); margin-bottom: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em;">Blog · Jeff Geerling</p>
+                <p style="font-weight: 600; margin-bottom: 0.5rem; font-size: 0.95rem;">Radxa's SATA HAT makes compact Pi 5 NAS</p>
+                <p style="font-size: 0.85rem; color: var(--global-text-color-light); margin: 0;">Hardware review and benchmarks of the Radxa Penta SATA HAT on a Raspberry Pi 5.</p>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-4 mb-3">
+        <a href="https://www.youtube.com/watch?v=X8vjPiGzA2E&t=365s" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 8px; padding: 1.25rem; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <p style="font-size: 0.75rem; color: var(--global-text-color-light); margin-bottom: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em;">Video · MegaTinkers</p>
+                <p style="font-weight: 600; margin-bottom: 0.5rem; font-size: 0.95rem;">DIY NAS build on a budget!</p>
+                <p style="font-size: 0.85rem; color: var(--global-text-color-light); margin: 0;">End-to-end build walkthrough: Raspberry Pi 5, Radxa Penta HAT, and OpenMediaVault setup.</p>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-4 mb-3">
+        <a href="https://smarthomecircle.com/create-nas-with-raspberry-pi-5" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+            <div style="border: 2px solid var(--global-divider-color); border-radius: 8px; padding: 1.25rem; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
+                <p style="font-size: 0.75rem; color: var(--global-text-color-light); margin-bottom: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em;">Guide · SmartHomeCircle</p>
+                <p style="font-weight: 600; margin-bottom: 0.5rem; font-size: 0.95rem;">Create a NAS with Raspberry Pi 5</p>
+                <p style="font-size: 0.85rem; color: var(--global-text-color-light); margin: 0;">Step-by-step tutorial covering OMV installation, storage configuration, and SMB sharing.</p>
+            </div>
+        </a>
+    </div>
+</div>
