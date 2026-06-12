@@ -123,6 +123,11 @@ ninja.data = [{
           description: "converting an old HP Mini into a headless file server",
           section: "Projects",handler: () => {
               window.location.href = "/projects/home-server/";
+            },},{id: "projects-raspberry-pi-nas",
+          title: 'raspberry pi NAS',
+          description: "building a self-hosted NAS with cloud services on a Raspberry Pi 5",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pi-nas/";
             },},{id: "projects-project-management",
           title: 'project management',
           description: "event organization &amp; management",
