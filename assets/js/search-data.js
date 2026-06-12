@@ -113,16 +113,16 @@ ninja.data = [{
           description: "micro:bit &amp; raspberry pi",
           section: "Projects",handler: () => {
               window.location.href = "/projects/chipset/";
+            },},{id: "projects-e-waste-server-build",
+          title: 'e-waste server build',
+          description: "converting an old HP Mini into a headless file server",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/e-waste-server/";
             },},{id: "projects-electrospinning",
           title: 'electrospinning',
           description: "nanofibers from polymer solutions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electrospinning/";
-            },},{id: "projects-home-server",
-          title: 'home server',
-          description: "converting an old HP Mini into a headless file server",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/home-server/";
             },},{id: "projects-home-server",
           title: 'home server',
           description: "building a self-hosted NAS with cloud services on a Raspberry Pi 5",

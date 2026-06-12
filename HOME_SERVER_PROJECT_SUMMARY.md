@@ -3,7 +3,7 @@
 ## ✅ Completed Tasks
 
 ### 1. Project Page Created
-- **File:** `_projects/home-server.md`
+- **File:** `_projects/e-waste-server.md`
 - **Status:** ✅ Complete
 - **Content:** Full project documentation with:
   - Comprehensive overview and motivation
@@ -41,7 +41,7 @@
 ```
 shameekvats.github.io/
 ├── _projects/
-│   └── home-server.md              ✅ NEW - Full project page
+│   └── e-waste-server.md           ✅ NEW - Full project page
 ├── _pages/
 │   └── about.md                    ✅ UPDATED - Added thumbnail
 ├── assets/img/
@@ -86,7 +86,7 @@ shameekvats.github.io/
 ## 🌐 Navigation
 
 ### Project Page Access
-- **Direct URL:** `/projects/home-server/`
+- **Direct URL:** `/projects/e-waste-server/`
 - **From home page:** Click "Home Server" card in featured projects
 - **From projects page:** Will appear in portfolio category (importance: 5)
 
