@@ -2,7 +2,7 @@
 layout: page
 title: raspberry pi NAS
 description: building a self-hosted NAS with cloud services on a Raspberry Pi 5
-img: assets/img/project_headers/pi_nas.jpg
+img: assets/img/project_pi-nas/IMG_6002.jpg
 importance: 4
 category: portfolio
 related_publications: false
@@ -89,6 +89,23 @@ The hardware stack centers on the Raspberry Pi 5, chosen for its significant per
         </table>
     </div>
 </div>
+
+---
+
+## Gallery
+
+<div class="row mt-4">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_pi-nas/IMG_5453.jpg" title="Pi 5 + Penta HAT Assembly" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Raspberry Pi 5 with the Radxa Penta SATA HAT stacked on top via GPIO extension—four SSDs installed, no case</div>
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/project_pi-nas/IMG_6002.jpg" title="NAS in 3D Printed Case" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">Finished NAS inside a custom 3D printed case with ventilation slits, top-mounted fan, and SSD activity LEDs visible through the side</div>
+    </div>
+</div>
+
+---
 
 **Hardware Challenge — GPIO Interference:** The Pi 5 Active Cooler's power connector sits directly where the Penta SATA HAT Top Board connects to the GPIO header. The solution is a GPIO extension cable that raises the Top Board just enough to clear the cooler, without removing it. Stack order: Pi 5 → GPIO extension → Top Board → SATA HAT.
 
