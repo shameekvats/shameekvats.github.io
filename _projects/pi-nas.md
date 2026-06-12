@@ -1,6 +1,6 @@
 ---
 layout: page
-title: raspberry pi NAS
+title: home server
 description: building a self-hosted NAS with cloud services on a Raspberry Pi 5
 img: assets/img/project_pi-nas/IMG_6002.jpg
 importance: 4
