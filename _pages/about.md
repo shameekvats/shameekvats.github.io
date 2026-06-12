@@ -70,28 +70,13 @@ Alongside materials R&D, I develop end-to-end additive manufacturing workflows f
 
     <!-- Home Server Card -->
     <div class="col-lg-4 col-md-6 mb-4">
-        <a href="{{ '/projects/home-server/' | relative_url }}" style="text-decoration: none; color: inherit;">
-            <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
-                <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
-                    {% include figure.liquid loading="eager" path="assets/img/project_headers/home_server.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Home server NAS project" %}
-                </div>
-                <div style="padding: 1.5rem; text-align: center;">
-                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Home Server</h4>
-                    <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Repurposing old laptops as headless file servers</p>
-                </div>
-            </div>
-        </a>
-    </div>
-
-    <!-- Raspberry Pi NAS Card -->
-    <div class="col-lg-4 col-md-6 mb-4">
         <a href="{{ '/projects/pi-nas/' | relative_url }}" style="text-decoration: none; color: inherit;">
             <div style="border: 2px solid var(--global-divider-color); border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.2s, box-shadow 0.2s; background: var(--global-bg-color);">
                 <div style="width: 100%; height: 180px; overflow: hidden; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
                     {% include figure.liquid loading="eager" path="assets/img/project_pi-nas/IMG_6002.jpg" class="img-fluid" style="width: 100%; height: 100%; object-fit: cover;" alt="Raspberry Pi 5 NAS in 3D printed case" %}
                 </div>
                 <div style="padding: 1.5rem; text-align: center;">
-                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Raspberry Pi NAS</h4>
+                    <h4 style="margin-bottom: 0.5rem; font-weight: 600;">Home Server</h4>
                     <p style="font-size: 0.9rem; color: var(--global-text-color-light); margin: 0;">Self-hosted cloud storage, photo backup & smart home on a Pi 5</p>
                 </div>
             </div>
