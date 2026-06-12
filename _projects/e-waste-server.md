@@ -1,6 +1,6 @@
 ---
 layout: page
-title: home server
+title: e-waste server build
 description: converting an old HP Mini into a headless file server
 img: assets/img/project_headers/home_server.jpg
 importance: 5

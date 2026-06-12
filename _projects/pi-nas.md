@@ -317,6 +317,74 @@ The OS SD card is the weakest link for long-term reliability. Docker's data root
 
 ---
 
+## Lessons Learned
+
+### What Worked Well
+
+- **mergerfs + SnapRAID** is an excellent combination for home NAS—flexible pool sizing with meaningful data protection, without the complexity of traditional RAID
+- **Docker + Portainer** makes running multiple services approachable; updating or rolling back a service is a two-click operation
+- **Tailscale** eliminated every remote access headache—no port forwarding, no DDNS, no firewall rules; it just works
+- **The Pi 5's PCIe bus** proved genuinely capable: sustained ~110 MB/s over GbE without saturating the SATA controller
+- **Home Assistant for fan control** was a creative reuse—hardware monitoring integrated directly into the smart home dashboard with no separate daemon
+
+### Areas for Improvement
+
+- **SD card as boot media** is the weakest reliability link; migrating the OS to the Kingston SSD (via `raspi-config`) would eliminate this single point of failure
+- **Kingston A400 in the parity role** reduces write wear significantly, but it is not NAS-rated—long-term endurance in this role is still to be proven
+- **No automated container health alerts** yet; a watchdog or uptime monitoring tool (e.g., Uptime Kuma) is needed before this qualifies as a truly hands-off setup
+- **Static IP** is still assigned via DHCP lease rather than a true reservation in the router—a stale lease could break mDNS and Tailscale exit routing
+
+---
+
+## Complete Documentation
+
+This project is fully documented with step-by-step guides for every phase of the build—from hardware assembly through each service deployment:
+
+<div class="row mt-4 mb-4">
+    <div class="col-md-6 mb-3">
+        <a href="https://github.com/shameekvats/raspberry-pi-5-nas" target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-lg" style="width: 100%;">
+            📦 View GitHub Repository
+        </a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a href="https://github.com/shameekvats/raspberry-pi-5-nas/blob/main/docs/01-HARDWARE-ASSEMBLY.md" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-lg" style="width: 100%;">
+            🔧 Hardware Assembly Guide
+        </a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a href="https://github.com/shameekvats/raspberry-pi-5-nas/blob/main/docs/03-STORAGE.md" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-lg" style="width: 100%;">
+            💾 Storage Configuration Guide
+        </a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a href="https://github.com/shameekvats/raspberry-pi-5-nas/blob/main/docs/04-DOCKER.md" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary btn-lg" style="width: 100%;">
+            🐳 Docker & Services Guide
+        </a>
+    </div>
+</div>
+
+### Repository Contents
+
+- **`docs/`** — Nine sequential guides covering hardware through every service (OMV, storage, Docker, Nextcloud, Immich, Home Assistant, Tailscale, backups)
+- **`configs/`** — Configuration file examples with comments
+- **`scripts/`** — Automation and utility scripts
+- **`images/`** — Build photographs
+
+---
+
+## Community Contribution
+
+This project is open source and welcomes contributions:
+
+- **Hardware compatibility reports** — Tested on a different Pi revision or SATA HAT? Share your results
+- **Documentation improvements** — Found a clearer way to explain a step?
+- **Troubleshooting solutions** — Hit an issue and solved it? Add it to the docs
+- **Service additions** — Running Jellyfin, Pi-hole, or something else on top? Pull requests welcome
+
+Visit the [Contributing Guidelines](https://github.com/shameekvats/raspberry-pi-5-nas/blob/main/CONTRIBUTING.md) to get involved.
+
+---
+
 **Project Status:** ✅ Operational  
 **Last Updated:** June 2026
 
@@ -354,4 +422,10 @@ These resources were instrumental in planning and building this project:
             </div>
         </a>
     </div>
+</div>
+
+---
+
+<div class="alert alert-success" role="alert">
+  <strong>⭐ Found this helpful?</strong> Star the <a href="https://github.com/shameekvats/raspberry-pi-5-nas" class="alert-link">GitHub repository</a> and share with others building their own home NAS!
 </div>
