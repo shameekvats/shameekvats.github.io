@@ -2,7 +2,7 @@
 layout: about
 title: home #about
 permalink: /
-subtitle: R&D Engineer & Project Manager based in Luxembourg #Materials, R&D Engineer, Project Management, Luxembourg. 
+subtitle: R&D Engineer & Project Manager #Materials, R&D Engineer, Project Management, Luxembourg. 
 
 profile:
   align: right
