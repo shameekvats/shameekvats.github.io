@@ -30,7 +30,7 @@ latest_posts:
 
 I’m an R&D engineer who turns polymers, including waste and bio-based feedstocks, into functional fibres and materials. Over the past decade I’ve worked across Luxembourg and Denmark, developing processes from first lab trials to working prototypes.
 
-My core expertise is electrospinning and polymer processing: tuning solution rheology, building and optimising spinning setups, and characterising the results (FTIR, SEM, rheology, mechanical testing). One recent outcome was a deacetylation route for cellulose fibres that runs 40× faster than conventional methods while improving their mechanical performance.
+My core expertise is electrospinning and polymer processing: tuning solution rheology, building and optimising spinning setups, and characterising the results (FTIR, SEM, rheology, mechanical testing).
 
 Beyond materials, I design and build: parametric CAD, 3D-printed functional prototypes and electronics-integrated builds, and I run hands-on 3D printing workshops. As a Professional Scrum Master (PSM I), I bring structure to multi-partner, cross-disciplinary projects.
 
