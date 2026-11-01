@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shameekvats
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shameekvats/raspberry-pi-5-nas
+  - shameekvats/Old-laptop-home-server
+  - shameekvats/microbit-robot-arm
+  - shameekvats/low-key
+  - shameekvats/t-3d
