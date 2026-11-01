@@ -1,39 +1,75 @@
 {
   "basics": {
     "name": "Shameek Vats",
-    
     "image": "",
     "email": "shameekvats@proton.me",
-    
-    "url": "shameekvats@github.io",
+    "url": "https://shameekvats.github.io",
     "summary": "",
-    "location": {
-    
-    },
-    "profiles": [
-      {
-
-      }
-    ]
+    "location": {},
+    "profiles": [{}]
   },
-  "work": [ 
+  "work": [
+    {
+      "name": "Aalborg University (AAU)",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.en.aau.dk/",
+      "startDate": "2026",
+      "endDate": "Present",
+      "summary": "Developing electrospun fibres from recycled textile waste within STREP, a Horizon Europe project on textile-to-textile recycling coordinated by Aalborg University. Contributing to work-package activities, technical reporting and coordination with industrial and academic partners across Europe.",
+      "highlights": ["Electrospinning", "Textile Recycling", "Circular Economy", "Horizon Europe", "Technical Reporting"]
+    },
     {
       "name": "Luxembourg Institute of Science and Technology (LIST)",
-      "position": "(Junior) R&T Associate",
+      "position": "R&T Associate",
       "url": "https://www.list.lu/",
       "startDate": "2022-10-01",
       "endDate": "2024-09-30",
-      "summary": "Electrospun cellulose-based fibers and regenerated cellulose for sustainable material applications. Collaborated with international partners and laboratory infrastructure setup along with website development and grant proposal writing.",
-      "highlights": ["Electrospinning", "3D Printing", "Circular Economy", "Website Design", "Grant Writing", "Project Management"]
+      "summary": "Led R&D on cellulose-based materials from waste streams, including electrospun and regenerated cellulose fibres. Co-managed BIOCEL-3D, a \u20ac1M M-ERA.NET project with academic and industrial partners; drafted a Horizon Europe proposal; set up laboratory infrastructure, project data systems and the project website.",
+      "highlights": ["Electrospinning", "3D Printing", "Circular Economy", "Grant Writing", "Project Management", "Website Design"]
     },
     {
       "name": "University of Luxembourg",
-      "position": "R&D Specialist",
+      "position": "Scientific Researcher (Doctoral & Post-doctoral)",
       "url": "https://www.uni.lu/en/",
-      "startDate": "2021-10-01",
+      "startDate": "2017-07-01",
       "endDate": "2022-01-30",
-      "summary": "Supervised student on fiber production using 3D-printed parts and optimized the fiber spinning setup for efficiency.",
-      "highlights": ["Electrospinning", "3D Printing", "Product Development"]
+      "summary": "Doctoral research on electrospun liquid crystal core fibres within INTERACT, a \u20ac7.5M Horizon 2020 project. Contributed to national and European funding proposals, supervised students, optimised the fibre-spinning setup using 3D-printed parts, and organised international workshops and conferences.",
+      "highlights": ["Electrospinning", "Liquid Crystals", "3D Printing", "Grant Writing", "Scientific Communication"]
+    },
+    {
+      "name": "LEITAT Technological Center",
+      "position": "R&D Engineer (Intern)",
+      "url": "https://leitat.org/",
+      "startDate": "2019-11",
+      "endDate": "2020-01",
+      "summary": "Developed nanofibre membranes for wastewater treatment via pilot-scale electrospinning, assessing scale-up from lab to industrial production.",
+      "highlights": ["Pilot-scale Electrospinning", "Nanofibre Membranes", "Scale-up"]
+    },
+    {
+      "name": "Banyan Nation",
+      "position": "R&D Intern",
+      "url": "https://www.banyannation.com/",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "R&D at a circular-economy recycling start-up, improving the processing efficiency of post-consumer polypropylene.",
+      "highlights": ["Polymer Recycling", "Circular Economy", "Process Optimisation"]
+    },
+    {
+      "name": "Sense of Intelligence Oy",
+      "position": "Project Engineer",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Developed a sensor-based wearable product at an early-stage start-up; drafted a business proposal covering risk analysis, cost assessment and sustainability, and pitched it to stakeholders.",
+      "highlights": ["Product Development", "Wearables", "Business Proposal", "Risk Analysis"]
+    },
+    {
+      "name": "Reliance Industries Limited (RIL)",
+      "position": "Bachelor's Thesis",
+      "url": "https://www.ril.com/",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "Enhanced polyolefin rheology at industrial scale using UHMW-PE; analysed melt-flow performance with MFI and DSC.",
+      "highlights": ["Polymer Rheology", "MFI", "DSC"]
     }
   ],
   "freelance": [
@@ -42,18 +78,25 @@
       "location": "Luxembourg",
       "position": "Independent 3D Product Design & Fabrication Project",
       "url": "https://t-3d.me/",
-      "startDate": "2023-01-01",
-      "endDate": "Present",
+      "startDate": "2024",
+      "endDate": "2026",
       "summary": "Self-directed 3D design and fabrication initiative combining digital product design, additive manufacturing, and customer-facing delivery.",
-      "highlights": ["3D Product Design", "Additive Manufacturing", "Prototyping & Print Optimization", "Workshop Facilitation", "Website & Portfolio Management", "Client Communication"]
+      "highlights": [
+        "3D Product Design",
+        "Additive Manufacturing",
+        "Prototyping & Print Optimization",
+        "Workshop Facilitation",
+        "Website & Portfolio Management",
+        "Client Communication"
+      ]
     },
     {
       "organization": "Beyond Music ASBL",
       "location": "Luxembourg",
       "position": "Project Manager",
       "url": "https://www.beyondmusic.lu/",
-      "startDate": "Present",
-      "endDate": "2020-10-01",
+      "startDate": "2020-10-01",
+      "endDate": "2026",
       "summary": "Organizing electronic music festivals and events in unique and culturally significant locations in Luxembourg.",
       "highlights": ["Board Member", "Event Organization", "Risk Analysis", "Concept Development", "Project Management"]
     },
@@ -62,10 +105,10 @@
       "location": "Luxembourg",
       "position": "Communications Team",
       "url": "https://warriorscricket.eu/default.aspx",
-      "startDate": "Present",
-      "endDate": "2021-10-01",
+      "startDate": "2021-10-01",
+      "endDate": "2026",
       "summary": "Along with captaining the cricket team, I am responsible for designing and maintaining the club's website, creating an online experience as seamless as a well-coordinated cricket strategy.",
-      "highlights": ["Website Design", "Strategy, Planning & Execution","Communication & Outreach", "Team Captain"]
+      "highlights": ["Website Design", "Strategy, Planning & Execution", "Communication & Outreach", "Team Captain"]
     }
   ],
   "education": [
@@ -78,7 +121,14 @@
       "startDate": "2017-07-01",
       "endDate": "2021-10-08",
       "score": "",
-      "courses": ["Liquid Crystals", "Rheology", "Optical Microscopy", "Scanning Electron Microscopy(SEM)", "Website Design", "Using Python for Research"]
+      "courses": [
+        "Liquid Crystals",
+        "Rheology",
+        "Optical Microscopy",
+        "Scanning Electron Microscopy(SEM)",
+        "Website Design",
+        "Using Python for Research"
+      ]
     },
     {
       "institution": "Tampere University of Technology",
@@ -89,18 +139,30 @@
       "startDate": "2013-08-15",
       "endDate": "2015-08-30",
       "score": "",
-      "courses": ["Biodegradable Polymers", "Materials Processing", "Thermal Analysis of Materials", "High Technolgy Fibers","FT-IR", "Product Development & Innovations"]
+      "courses": [
+        "Biodegradable Polymers",
+        "Materials Processing",
+        "Thermal Analysis of Materials",
+        "High Technology Fibers",
+        "FT-IR",
+        "Product Development & Innovations"
+      ]
     },
     {
       "institution": "University of Delhi",
       "location": "New Delhi, India",
-      "url": "https://www.tuni.fi/en",
+      "url": "https://www.du.ac.in/",
       "area": "Polymer Science",
       "studyType": "Bachelors",
       "startDate": "2009-07-15",
       "endDate": "2012-08-01",
       "score": "",
-      "courses": ["Introduction to Fiber Science & Technolgy", "Rheology & Processing of Polymers", "Polymer Blends & Composites", "Principles & Functions of Management"]
+      "courses": [
+        "Introduction to Fiber Science & Technology",
+        "Rheology & Processing of Polymers",
+        "Polymer Blends & Composites",
+        "Principles & Functions of Management"
+      ]
     }
   ],
   "skills": [
@@ -113,46 +175,34 @@
         "Optical Microscopy & SEM",
         "Thermal Analysis (DSC, TGA)",
         "Mechanical Testing",
-        "Rheology & Material Characterization"
+        "Rheology & Material Characterization",
+        "Textile Recycling & Circular Materials"
       ]
     },
     {
       "name": "Data Science & Programming",
       "level": "",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Python (Pandas, NumPy, Matplotlib)",
-        "SQL & Data Analysis",
-        "Data Visualization",
-        "C, C++",
-        "Markdown"
-      ]
+      "keywords": ["Python (Pandas, NumPy, Matplotlib)", "SQL & Data Analysis", "Data Visualization", "C, C++", "Markdown"]
     },
     {
       "name": "Digital Fabrication & Hardware",
       "level": "",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "3D Printing (FDM, Parametric Design)",
-        "Raspberry Pi & Microbit",
-        "CAD Design"
-      ]
+      "keywords": ["3D Printing (FDM, Parametric Design)", "Raspberry Pi & Microbit", "CAD Design"]
     },
     {
       "name": "Web Development & Design",
       "level": "",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Frontend (HTML, CSS, JavaScript)",
-        "UX Design",
-        "Jekyll, Astro, Static Site Generators"
-      ]
+      "keywords": ["Frontend (HTML, CSS, JavaScript)", "UX Design", "Jekyll, Astro, Static Site Generators"]
     },
     {
       "name": "Project Management",
       "level": "",
       "icon": "fa-solid fa-tasks",
       "keywords": [
+        "EU Project Coordination (Horizon Europe, M-ERA.NET)",
         "Agile Methodologies (Scrum)",
         "Product Development",
         "Grant Writing & Proposals",
@@ -163,53 +213,57 @@
   ],
   "certificates": [
     {
-      "name": "Project Management & Agile",
+      "name": "Professional Scrum Master I",
+      "icon": "fa-solid fa-tasks",
+      "issuer": "Scrum.org",
+      "date": ""
+    },
+    {
+      "name": "Design Thinking & Project Management",
       "icon": "fa-solid fa-tasks",
       "issuer": "",
-      "date": "",
-      "items": [
-        "Professional Scrum Master I",
-        "Design Thinking & Project Management"
-      ]
+      "date": ""
     },
     {
-      "name": "Software Development & DevOps",
+      "name": "GitLab Mastery: From Basics to Advanced CI/CD",
       "icon": "fa-solid fa-code-branch",
       "issuer": "",
-      "date": "",
-      "items": [
-        "GitLab Mastery: From Basics to Advanced CI/CD",
-        "Programming in C: From Basics to Advanced"
-      ]
+      "date": ""
     },
     {
-      "name": "Web Development",
+      "name": "Programming in C: From Basics to Advanced",
+      "icon": "fa-solid fa-code-branch",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Python for Data Science",
+      "icon": "fa-solid fa-chart-line",
+      "issuer": "",
+      "date": ""
+    },
+    {
+      "name": "Introduction to Web Development for Beginners",
       "icon": "fa-solid fa-laptop-code",
       "issuer": "",
-      "date": "",
-      "items": [
-        "Introduction to Web Development for Beginners"
-      ]
+      "date": ""
     },
     {
-      "name": "Digital Fabrication",
+      "name": "Masterclass: FDM 3D Printing - Optimizing for Consistency and Industry Quality",
       "icon": "fa-solid fa-cube",
       "issuer": "",
-      "date": "",
-      "items": [
-        "Masterclass: FDM 3D Printing - Optimizing for Consistency and Industry Quality"
-      ]
+      "date": ""
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C2 (Fluent)",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "A2",
+      "fluency": "B2",
       "icon": ""
     },
     {
