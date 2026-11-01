@@ -7,13 +7,13 @@ The site collects my publications, projects, blog posts and CV.
 
 ## What's on the site
 
-| Section | Content |
-|---|---|
-| [About](https://shameekvats.github.io/) | Short introduction and featured projects |
-| [Projects](https://shameekvats.github.io/projects/) | Electrospinning, additive manufacturing, home servers, embedded systems, web development, project management |
-| [Blog](https://shameekvats.github.io/blog/) | Build logs and technical write-ups |
-| [Publications](https://shameekvats.github.io/publications/) | Peer-reviewed papers and theses |
-| [CV](https://shameekvats.github.io/cv/) | Short CV |
+| Section                                                     | Content                                                                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [About](https://shameekvats.github.io/)                     | Short introduction and featured projects                                                                     |
+| [Projects](https://shameekvats.github.io/projects/)         | Electrospinning, additive manufacturing, home servers, embedded systems, web development, project management |
+| [Blog](https://shameekvats.github.io/blog/)                 | Build logs and technical write-ups                                                                           |
+| [Publications](https://shameekvats.github.io/publications/) | Peer-reviewed papers and theses                                                                              |
+| [CV](https://shameekvats.github.io/cv/)                     | Short CV                                                                                                     |
 
 ## How it's built
 
