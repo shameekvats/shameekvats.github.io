@@ -170,37 +170,18 @@ kramdown:
 include: ["_pages", "_scripts", "google8eefa54601aa284c.html"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
   - purgecss.config.js
   - README.md
-  - readme_preview/
   - vendor
-  - _news/announcement_1.md
-  - _news/announcement_2.md
-  - _news/announcement_3.md
-  - _projects/9_project.md
-  - _projects/8_project.md
-  - _projects/7_project.md
-  - _projects/6_project.md
-  - _projects/5_project.md
-  - _projects/4_project.md
-  - _projects/3_project.md
-  - _projects/2_project.md
-  - _projects/1_project.md
 keep_files:
-  - CNAME
   - .nojekyll
 
 # Plug-ins
