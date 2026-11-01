@@ -6,7 +6,7 @@
     - name: Email
       value: shameekvats@proton.me
     - name: Languages
-      value: English, French, Luxembourgish, German, Hindi
+      value: English, French, German, Hindi
 
 - title: Education
   type: time_table
@@ -181,4 +181,3 @@
     - Luxembourgish (A2)
     - German (A1)
     - Hindi (Native speaker)
-
