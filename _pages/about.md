@@ -50,7 +50,8 @@ A background in polymer science and materials engineering underpins all of it. A
 </div>
 <p class="glance-projects">
   EU-funded projects: INTERACT (Horizon 2020) ·
-  <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer">BIOCEL-3D</a> (M-ERA.NET)
+  <a href="https://www.biocel3d.eu/" target="_blank" rel="noopener noreferrer">BIOCEL-3D</a> (M-ERA.NET) ·
+  STREP (Horizon Europe)
 </p>
 
 <div class="row mt-4 mb-2 justify-content-center">
