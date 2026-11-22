@@ -1,0 +1,5 @@
+{% comment %}
+  Career map on the home page. Data: _data/journey.yml. Rendered by assets/js/leaflet-setup.js
+  (needs `map: true` in the page front matter). Coordinates are [longitude, latitude].
+{% endcomment %}
+<pre><code class="language-geojson">{"type": "FeatureCollection", "features": [{% for place in site.data.journey %}{"type": "Feature", "properties": {"name": {{ place.name | jsonify }}, "role": {{ place.role | jsonify }}, "years": {{ place.years | jsonify }}, "highlight": {{ place.highlight | default: false | jsonify }}}, "geometry": {"type": "Point", "coordinates": [{{ place.lon }}, {{ place.lat }}]}}{% unless forloop.last %}, {% endunless %}{% endfor %}]}</code></pre>

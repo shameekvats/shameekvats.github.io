@@ -4,7 +4,7 @@ title: blog
 permalink: /blog/
 description: Insights on engineering, automation, and experiences from lab to life
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <div class="post">
