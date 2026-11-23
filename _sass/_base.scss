@@ -1176,6 +1176,29 @@ nav[data-toggle="toc"] {
   width: 100%;
   // Keep tiles inside the box even if the Leaflet stylesheet fails to load.
   overflow: hidden;
+
+  // Leaflet popups have a white background in both themes; keep their text dark so it stays readable in dark mode.
+  // (These leaflet-* selectors are kept by the safelist in purgecss.config.js.)
+  .leaflet-popup-content,
+  .leaflet-popup-content * {
+    color: #212529;
+  }
+
+  .leaflet-popup-content small {
+    color: #555;
+  }
+
+  // Same for the +/- zoom buttons and the popup close button (their symbols sit in inner spans).
+  .leaflet-control-zoom a,
+  .leaflet-control-zoom a *,
+  .leaflet-popup-close-button * {
+    color: #212529;
+  }
+
+  .leaflet-control-zoom a.leaflet-disabled,
+  .leaflet-control-zoom a.leaflet-disabled * {
+    color: #aaa;
+  }
 }
 
 swiper-container {
