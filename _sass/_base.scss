@@ -441,6 +441,30 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Phones: smaller social icons so all of them fit on one line
+@media (max-width: 576px) {
+  .social .contact-icons {
+    font-size: 2.75rem;
+
+    a {
+      img {
+        width: 2.2rem;
+        height: 2.2rem;
+      }
+
+      svg {
+        width: 2.4rem;
+        height: 2.75rem;
+
+        image {
+          width: 2.4rem;
+          height: 2.4rem;
+        }
+      }
+    }
+  }
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
@@ -1147,8 +1171,11 @@ nav[data-toggle="toc"] {
 }
 
 .map {
+  position: relative;
   height: 400px;
   width: 100%;
+  // Keep tiles inside the box even if the Leaflet stylesheet fails to load.
+  overflow: hidden;
 }
 
 swiper-container {

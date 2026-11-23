@@ -10,7 +10,8 @@ document.addEventListener("readystatechange", () => {
       mapElement.classList.add("map");
       backup.after(mapElement);
 
-      var map = L.map(mapElement);
+      /* scrollWheelZoom off: scrolling the page over the map should scroll the page, not zoom the map */
+      var map = L.map(mapElement, { scrollWheelZoom: false });
       L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
