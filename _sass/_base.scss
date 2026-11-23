@@ -1147,8 +1147,11 @@ nav[data-toggle="toc"] {
 }
 
 .map {
+  position: relative;
   height: 400px;
   width: 100%;
+  // Keep tiles inside the box even if the Leaflet stylesheet fails to load.
+  overflow: hidden;
 }
 
 swiper-container {
