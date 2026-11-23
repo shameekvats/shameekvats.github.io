@@ -1,0 +1,54 @@
+# Places on the home page career map (_includes/journey_map.liquid).
+# lon/lat are approximate institution locations. highlight: true = recycling / waste-stream work.
+
+- name: Aalborg University
+  role: Postdoctoral Researcher – electrospun fibres from recycled textile waste (STREP, Horizon Europe)
+  years: 2026 – present
+  lon: 9.9845
+  lat: 57.0145
+  highlight: true
+
+- name: Luxembourg Institute of Science and Technology & University of Luxembourg
+  role: R&T Associate – cellulose fibres from waste streams (BIOCEL-3D, M-ERA.NET); PhD & researcher – electrospinning (INTERACT, Horizon 2020)
+  years: 2017 – 2024
+  lon: 5.9486
+  lat: 49.5036
+  highlight: true
+
+- name: LEITAT Technological Center
+  role: R&D Engineer (Intern) – pilot-scale electrospinning of nanofibre membranes
+  years: 2019 – 2020
+  lon: 2.1734
+  lat: 41.3851
+
+- name: Banyan Nation
+  role: R&D Intern – recycling post-consumer polypropylene
+  years: 2017
+  lon: 78.4867
+  lat: 17.385
+  highlight: true
+
+- name: Sense of Intelligence Oy
+  role: Project Engineer – sensor-based wearable product
+  years: 2015 – 2016
+  lon: 24.9384
+  lat: 60.1699
+
+- name: Tampere University of Technology
+  role: MSc Materials Engineering – upcycling waste cotton and polyester textiles
+  years: 2013 – 2015
+  lon: 23.8488
+  lat: 61.4498
+  highlight: true
+
+- name: Reliance Industries Limited
+  role: Bachelor's thesis – polyolefin rheology at industrial scale
+  years: 2012
+  lon: 73.1812
+  lat: 22.3072
+
+- name: University of Delhi
+  role: BSc Polymer Science
+  years: 2009 – 2012
+  lon: 77.21
+  lat: 28.6886

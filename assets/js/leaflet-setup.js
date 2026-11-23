@@ -15,8 +15,40 @@ document.addEventListener("readystatechange", () => {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
-      let geoJSON = L.geoJSON(JSON.parse(jsonData)).addTo(map);
-      map.fitBounds(geoJSON.getBounds());
+      /* Points with properties (e.g. the home page career map) become themed circle markers with a popup.
+         Filled markers = properties.highlight. Text is set via textContent, so no HTML is injected. */
+      const themeColor = getComputedStyle(document.documentElement).getPropertyValue("--global-theme-color").trim() || "#b509ac";
+      let geoJSON = L.geoJSON(JSON.parse(jsonData), {
+        pointToLayer: (feature, latlng) => {
+          if (!feature.properties || !feature.properties.name) return L.marker(latlng);
+          const highlight = Boolean(feature.properties.highlight);
+          return L.circleMarker(latlng, {
+            radius: highlight ? 9 : 7,
+            color: themeColor,
+            weight: 2,
+            fillColor: themeColor,
+            fillOpacity: highlight ? 0.85 : 0.15,
+          });
+        },
+        onEachFeature: (feature, layer) => {
+          const p = feature.properties;
+          if (!p || !p.name) return;
+          const popup = document.createElement("div");
+          [
+            ["strong", p.name],
+            ["div", p.role],
+            ["small", p.years],
+          ].forEach(([tag, text]) => {
+            if (!text) return;
+            const el = document.createElement(tag);
+            el.textContent = text;
+            el.style.display = "block";
+            popup.appendChild(el);
+          });
+          layer.bindPopup(popup);
+        },
+      }).addTo(map);
+      map.fitBounds(geoJSON.getBounds(), { padding: [20, 20] });
     });
   }
 });
